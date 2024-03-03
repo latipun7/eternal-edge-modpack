@@ -1,0 +1,11 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "EditProfiles": {
+        "quick_slot_1_profile": "beginner_exploration"
+    }
+}

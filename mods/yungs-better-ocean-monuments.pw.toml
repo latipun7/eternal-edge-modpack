@@ -1,0 +1,13 @@
+name = "YUNG's Better Ocean Monuments"
+filename = "YungsBetterOceanMonuments-1.20.4-Fabric-3.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/V46v23Uz/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.0.jar"
+hash-format = "sha1"
+hash = "15c7ee26940f40a7b57f019e0ec5c6c8ecbe4c02"
+
+[update]
+[update.modrinth]
+mod-id = "3dT9sgt4"
+version = "V46v23Uz"

@@ -1,0 +1,13 @@
+name = "Cristel Lib"
+filename = "cristellib-1.2.4-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/3aypqSNl/cristellib-1.2.4-fabric.jar"
+hash-format = "sha1"
+hash = "77168e6c20c339d2b35e8658a8bfa8449d5208c0"
+
+[update]
+[update.modrinth]
+mod-id = "cl223EMc"
+version = "3aypqSNl"

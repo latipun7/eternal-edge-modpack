@@ -1,0 +1,8 @@
+name = "Icons - Xaero Minimap X Fresh Animations"
+filename = "Icon - Xaero X FA - v2.4 (1.20.2).zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d368027f4eb557cae0a1fcfdbbc892f37c374e4a"
+url = "https://www.curseforge.com/api/v1/mods/865324/files/4769116/download"

@@ -1,0 +1,13 @@
+name = "Paxi"
+filename = "Paxi-1.20.4-Fabric-4.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/kOPN246o/Paxi-1.20.4-Fabric-4.4.0.jar"
+hash-format = "sha1"
+hash = "629f2e79bcdb7b70e133055d4210e1ed68e7d744"
+
+[update]
+[update.modrinth]
+mod-id = "CU0PAyzb"
+version = "kOPN246o"

@@ -1,0 +1,13 @@
+name = "Working Graves"
+filename = "working_graves-1.7.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GU61bZwi/versions/a8EB0MI6/working_graves-1.7.0.jar"
+hash-format = "sha1"
+hash = "33a6c3606e6a2821f7973a5d5f9ba9d375470dea"
+
+[update]
+[update.modrinth]
+mod-id = "GU61bZwi"
+version = "a8EB0MI6"

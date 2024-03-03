@@ -1,0 +1,13 @@
+name = "Axiom"
+filename = "Axiom-2.6.0-for-MC1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/dHxHtCQF/Axiom-2.6.0-for-MC1.20.4.jar"
+hash-format = "sha1"
+hash = "52d9a26671a6c5f537614a8e8ded0a578ccaa5f8"
+
+[update]
+[update.modrinth]
+mod-id = "N6n5dqoA"
+version = "dHxHtCQF"

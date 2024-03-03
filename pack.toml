@@ -1,0 +1,16 @@
+name = "Eternal Edge"
+author = "Latipun"
+version = "1.0.0-beta.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ccabdbbfbbc6895f7a8acd418185e8c180d85fca56ba029276e97d61bb66a31d"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
+
+[options]
+acceptable-game-versions = ["1.20.1", "1.20.2"]
