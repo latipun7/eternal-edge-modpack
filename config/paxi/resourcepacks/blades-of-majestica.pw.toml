@@ -1,0 +1,13 @@
+name = "Blades of Majestica"
+filename = "Blades Of Majestica.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3tXcbjvK/versions/vO2OsoN9/Blades%20Of%20Majestica.zip"
+hash-format = "sha1"
+hash = "479eb57e03b97ec7a3876d576fe6f7a566de1cda"
+
+[update]
+[update.modrinth]
+mod-id = "3tXcbjvK"
+version = "vO2OsoN9"

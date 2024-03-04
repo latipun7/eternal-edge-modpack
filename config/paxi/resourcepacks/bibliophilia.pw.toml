@@ -1,0 +1,13 @@
+name = "Bibliophilia | Enchanted Books"
+filename = "Bibliophilia 1.8.1 (1.20.1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/Joft2T8K/Bibliophilia%201.8.1%20%281.20.1%29.zip"
+hash-format = "sha1"
+hash = "88d01dfe8fa3391cdc8d124290d794fa988a1021"
+
+[update]
+[update.modrinth]
+mod-id = "50Rh3CqF"
+version = "Joft2T8K"

@@ -1,0 +1,13 @@
+name = "Realmshifter's katana"
+filename = "RS - resprite 1.20.X.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EYVOMwX8/versions/VF6elN59/RS%20-%20resprite%201.20.X.zip"
+hash-format = "sha1"
+hash = "c001206b862dde97e3e649c4cddef94c4e6dfc63"
+
+[update]
+[update.modrinth]
+mod-id = "EYVOMwX8"
+version = "VF6elN59"

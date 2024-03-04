@@ -1,0 +1,13 @@
+name = "Rethoughted Trident"
+filename = "Rethoughted Trident 1.20.3 - 1.20.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QPNoRyDv/versions/KYQRTzp0/Rethoughted%20Trident%201.20.3%20-%201.20.4.zip"
+hash-format = "sha1"
+hash = "0c6cba6991fe0480253d6a7afbeb9cc71b527c29"
+
+[update]
+[update.modrinth]
+mod-id = "QPNoRyDv"
+version = "KYQRTzp0"

@@ -1,0 +1,13 @@
+name = "Betta Click Sound"
+filename = "Betta_Click_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MyKpZ3St/versions/4NDC4XCR/Betta_Click_v1.zip"
+hash-format = "sha1"
+hash = "224666a88c5200f439d62dae127d1260329e6791"
+
+[update]
+[update.modrinth]
+mod-id = "MyKpZ3St"
+version = "4NDC4XCR"

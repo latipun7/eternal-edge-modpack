@@ -1,0 +1,13 @@
+name = "Custom-MojangLogo"
+filename = "Custom-mojangLogo[v1.2.1].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/j8nnpgro/versions/yXCNfzO7/Custom-mojangLogo%5Bv1.2.1%5D.zip"
+hash-format = "sha1"
+hash = "113eac7c0b37719436b9f249f33db428b0eddcfc"
+
+[update]
+[update.modrinth]
+mod-id = "j8nnpgro"
+version = "yXCNfzO7"

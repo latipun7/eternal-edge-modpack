@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7f6f8620a7ed5b3fca56e9a8e66a24117c1834e5f705d166488f3e4530a7286a"
+hash = "c23bd5cdc8c3023f4c7e63857b496cc4df79da60154bfda90dd0ba8193b1c35b"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128"
 
 [[files]]
 file = "config/paxi/datapacks/blazeandcaves-advancements-pack.pw.toml"
@@ -15,7 +15,62 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "3ad25d2f2e2105ba5ee6d6c2f5fae0559addebb9fc05387c0ddb9ff60b3f1101"
+hash = "ca44e9baab29cf6197fba25db71522413b80e517a7595469c986782bb8e04fd0"
+
+[[files]]
+file = "config/paxi/resourcepacks/3d-end-crystals.pw.toml"
+hash = "6de3545fe2e0f8d838bc2dba585d8e05c153e676082e6c5ec289237884963cbe"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/analogue-watch-clock.pw.toml"
+hash = "08e05a79148e9d2d29d3b050d10372cb53389be6713bf85a7e28488cf3a6fc28"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/animated-items.pw.toml"
+hash = "66d2259d0f5123f1c96c1dfeee07ccb33b876443a90da72cbba0d91c35e12159"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/betta-click-sound.pw.toml"
+hash = "78a9f37b600f95080068a15e8c1fe55591d3c6ca8dc19595973a7c4c65e74d33"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bibliophilia.pw.toml"
+hash = "9f702d006969cdbbb2cca5d31235caff21abe3e5dfe30266dc639134139ee18d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/blades-of-majestica.pw.toml"
+hash = "d9b20c0afd85109dc1de066c16bfabc5a64263365ee5168e0acd0d354396a188"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/card-of-uno-reverse.pw.toml"
+hash = "cfc7d0b80147d06bddb8f66f2a02e1eddac5d01406968f3192f3273a425a1257"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cheetahs-weapons.pw.toml"
+hash = "404e66135229b51c90551cf167d7acccbea22e688b5cef3976c2b9fd5da0ae87"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/chests-reimagined.pw.toml"
+hash = "223b900f2d94557158a5740bb599ec3a826930d6a9eb4b652348d58041ea6c50"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/custom-mojanglogo.pw.toml"
+hash = "370242814853c6d11e57d82a5de384a7ae59a7b035ce46b881c8a6e533964dc9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/dark-coffe-gui.pw.toml"
+hash = "9d21af2b2915b64ea0fe4e82e44690c0bc6fd8496fbc9c988b488bd4d2b771a1"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
@@ -48,8 +103,53 @@ hash = "39e6cdedf1ae5f31726ea042817d104e341d0d1386186ccf964f3d1a32ecc911"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/no-pumpkin-blur.pw.toml"
+hash = "c500c5e0b4ad696ab57a30b00b5837fa2634ad1609731181ec0d3946ac3befc3"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/realmshifters-katana.pw.toml"
+hash = "40f7eb0cf02ae227d33b61a24867a28a4395aa945af6abe62a6e8345ac9ef384"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/rethoughted-trident.pw.toml"
+hash = "d62cd4333a0082a407c920247d3a58a19b4283d820dbf636560fd8cca9bf6f05"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/simple,-beautiful.pw.toml"
+hash = "df0d04defd7f2df9b5ba6da0bfb55bea6fd1f2320e42fee998d27231a7b72fb8"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/stay-true.pw.toml"
 hash = "b2e81df889468eb25eded7a676bd2c1ed2bfe4bee088360211d641598d5818dc"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/toolsandtrims.pw.toml"
+hash = "762534348c601718cb70a7fb000bc93076412524769669970fd50a2c61d14118"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/torches-reimagined.pw.toml"
+hash = "052a97eae8da8639001d83b8a6bbd44d6857cf90608f23ae0c858c61374b33a9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/twemoji-visibility.pw.toml"
+hash = "f6eec95b6e29cec63cb8ca4a88f3b57ed90faf440a650061b2ecd0bc2ac736d4"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/wet-moon-katana.pw.toml"
+hash = "4b942730b335df15dbeb77845861bee7f8053e75074fd45468b37d6c0b52fd32"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
 
 [[files]]
@@ -87,6 +187,10 @@ hash = "80969dbbb5c25a6cd9b9291222a9959b76263dec62d03555af8eb79825d2fd69"
 [[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "dabade14cd388ee2fd4a3c7dd433110cd19c10d1ee5ddeef52379d94b4230f4c"
+
+[[files]]
+file = "config/yosbr/config/discord-mc-chat.json"
+hash = "4806a6e2097dcef5af9584335bddf54a31e2239d4aa651319264f144477efe57"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -315,6 +419,11 @@ hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn-dicedpixels.pw.toml"
+hash = "57c29e260e1f25a6752f43afe7c659b89e99e419c694cab3966999dc5a744d8a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -372,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "944a73b97e96cc0e99e04007411cf68e660001208c842cf8def046eb9ecf8c98"
 metafile = true
 
 [[files]]

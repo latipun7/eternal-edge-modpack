@@ -1,0 +1,13 @@
+name = "Card of UNO Reverse"
+filename = "Card-of-UNO-Reverse.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iw0Jo4NZ/versions/oCA4TN8N/Card-of-UNO-Reverse.zip"
+hash-format = "sha1"
+hash = "4efe24479b0cc02b6f7701908cf65cd0142f7d72"
+
+[update]
+[update.modrinth]
+mod-id = "iw0Jo4NZ"
+version = "oCA4TN8N"

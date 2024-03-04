@@ -1,0 +1,13 @@
+name = "Cheetahs Arsenal"
+filename = "!    §5Cheetahs swords Release   2.1FIXD.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJ91INpW/versions/InDspzFK/%21%20%20%20%20%C2%A75Cheetahs%20swords%20Release%20%20%202.1FIXD.zip"
+hash-format = "sha1"
+hash = "ac7aded68fea20a6de74047dac9f7a7806c802ea"
+
+[update]
+[update.modrinth]
+mod-id = "bJ91INpW"
+version = "InDspzFK"
