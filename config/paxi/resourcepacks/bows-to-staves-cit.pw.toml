@@ -1,0 +1,13 @@
+name = "Bows to Magic Staves CIT"
+filename = "nongko's_Bows_To_Staves_v1.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dthNENyP/versions/iluLuMmG/nongko%27s_Bows_To_Staves_v1.7.zip"
+hash-format = "sha1"
+hash = "90e9ffde12a41a3b4b7ee2e7ffdc079e3a609016"
+
+[update]
+[update.modrinth]
+mod-id = "dthNENyP"
+version = "iluLuMmG"

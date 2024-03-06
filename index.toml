@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "ca44e9baab29cf6197fba25db71522413b80e517a7595469c986782bb8e04fd0"
+hash = "8fc421b102702a58bf1d7b5ff5915e726c47de5026c319a4aa53c3010ac95c2a"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-end-crystals.pw.toml"
@@ -45,6 +45,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/blades-of-majestica.pw.toml"
 hash = "d9b20c0afd85109dc1de066c16bfabc5a64263365ee5168e0acd0d354396a188"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bows-to-staves-cit.pw.toml"
+hash = "7de8258085118a469d7a6c9fa8e90aebcadcc3a40aa3a1a2ea3dd1b1ed93850f"
 metafile = true
 
 [[files]]
