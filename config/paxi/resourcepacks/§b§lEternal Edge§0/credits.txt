@@ -1,0 +1,26 @@
+CREDITS:
+
+• Vanilla Tweaks Resource Pack
+https://vanillatweaks.net/share#vE8Dug
+Version: 1.20
+Packs:
+	TransparentPumpkin
+	UniqueDyes
+	AnimatedCampfireItem
+	VisualInfestedStoneItems
+	VisualWaxedCopperItems
+	ClearBannerPatterns
+	StickyPistonSides
+	DirectionalHoppers
+	DirectionalDispensersDroppers
+	BetterObservers
+	GroovyLevers
+	VisualHoney
+	NoteblockBanners
+	
+• Reimagined
+	Bow (item model & texture)
+
+• New Default+
+	Font & Lang
+	
