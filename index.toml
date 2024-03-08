@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "f4018dfc929b053585228dfb4d143044d5b0761d2201d5b19347b6d0c7b57d58"
+hash = "97102c00b291f7b018776675dea0bcd7fe25f951db9a702c6bc6b6c0c428bd62"
 metafile = true
 
 [[files]]
@@ -1262,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "26ee83cf460fd3e1348471a6bc15e89de773cca359338c55659617c2ab9e196f"
+hash = "1b770fb451d27288334ac80e585fd1d2dfa28543d89e1cce3f5b673644564f4b"
 metafile = true
 
 [[files]]
@@ -1317,12 +1317,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a659fc922dfbcbb29bad2bbc11dd34cb1686c3c9cde9a93fe484db0f4e4c3062"
+hash = "911920a0d32f628838f1d389df2c53c77b66e7818480b108820d07b4043c21ce"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "21d5a2dc79b4f21bed9f7f773b1525f7c7875e2e06e1e11f01cc1d22bff20a63"
+hash = "2928802be2e1160cfec349179ab43f9f611f92f5dd09f343be4671062dab4898"
 metafile = true
 
 [[files]]
@@ -1707,7 +1707,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "270e317943b8997c8fbbabc8c28e1488fe2c1c9e6c850b0a65fbbe36b6375b31"
+hash = "35ade0fa864cb50a62abefbbfeb35f94a0ce87efa2bb30ab5cb9af4d7b3e306a"
 metafile = true
 
 [[files]]
