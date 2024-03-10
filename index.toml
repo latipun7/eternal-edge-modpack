@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1ec07708e40525d8236dc44ce23189f0e1458e58f3f1fcd5fb7bc99b152abb46"
+hash = "bd0ba6038f75d3fa637aa3265921ce62cb2493c747e6ab228260c93e7f9e14c0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2eda4b018ef7e0051a300d9cc1bfe5b540303a831504ff4ab226b1b729be3083"
+hash = "f2522497aead3553df34ec683129e78ea45be31ee5942c6dbdbb8b85eabd6995"
 metafile = true
 
 [[files]]
@@ -1327,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "585a26ebc1917af57a31137a43e7ca01db5a5e1b19b6ed270645abcd9f969332"
+hash = "386b2f035628c99ba0b8fea6ba950033cd31d0f52c5ed55632946ba8bb8aa806"
 metafile = true
 
 [[files]]
@@ -1417,7 +1417,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fd134a479f8d5694b19d69c3e755d9c43013809f8ecf82b05a4e0d02472945da"
+hash = "d4379c7bc2817d61799b370ce8ef51a7427e7c682b9f794d0b2ba9b219c5dff5"
 metafile = true
 
 [[files]]
@@ -1462,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -1567,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "82823f8d324029f0893ab72639efb9fc7a43ca45653e8ea8f656692d0c7aab39"
+hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
 metafile = true
 
 [[files]]
@@ -1682,7 +1682,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "f7baf6469da4a6457b81dcbf0284b8b3ef92f72bb659d8f25f31d9443423fa6e"
+hash = "5b04fc4286cf61a6f3e5ff79ff6abb1c9afd1243f3144cd7eecc5eb24a936fd6"
 metafile = true
 
 [[files]]
@@ -1712,7 +1712,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "903f4ea7710300492e2f8cf1b98b59f1cdf0e1a4ecd25d2b3761dd23f0904d10"
+hash = "89d0605e73d81cd1d346e84fcb0daa37169f3aa61e95e306462f4581def43912"
 metafile = true
 
 [[files]]
@@ -1827,7 +1827,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "f7afc0af8292728fa5ae7105fd10afe6395fe925a4f61023e73f234c409562d6"
+hash = "5ca8392f7c2a2204723fdd74b7c78f20ca9cf1b4fb9b13604d412e00e824cc5d"
 metafile = true
 
 [[files]]
