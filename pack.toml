@@ -1,12 +1,12 @@
 name = "Eternal Edge"
 author = "Latipun"
-version = "1.0.0-beta.4"
+version = "1.0.0-beta.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d4c1881feb069578608b34bbde30917dea955813642fab630b972a212608717b"
+hash = "ea8c1c9c525192b063e9153c6b690c34d542fcefc4cc9953d64d5ee3880bc213"
 
 [versions]
 fabric = "0.15.7"

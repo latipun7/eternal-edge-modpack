@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2c48803c906433a094dcb191f2b48c6d695b94f6f6f57bc4dc6a33f8f6457ac"
+hash = "1ec07708e40525d8236dc44ce23189f0e1458e58f3f1fcd5fb7bc99b152abb46"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -1041,6 +1041,10 @@ file = "config/yosbr/config/auto-clicker-fabric.json"
 hash = "dd8a5027a7504b503ebb3f4f89a8018361f8cbe6be8f1cb08ee4c40d283b09fe"
 
 [[files]]
+file = "config/yosbr/config/betterthirdperson.json5"
+hash = "a08f97002e75fbe4e2933cbb6137c8bcb33d1cd36e947e54829b8fa8ab3caa7c"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
@@ -1075,6 +1079,10 @@ hash = "fb9b21b863ad1ae9ad4205b5f7f63c805e460261ec8fc86b5d53ced802e34d09"
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "bb8badd373925f2fa45b13079e1953fbf84446449c6fdee227fd1e8a2d3d9c13"
+
+[[files]]
+file = "config/yosbr/config/explosiveenhancement.json"
+hash = "b19273c66db5dafdb2d46ddfaeab594db46ceba527fa1629716e8da397861d61"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -1173,6 +1181,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "config/yosbr/config/youwereslain.json"
+hash = "dc6ead76948b00b9447da77384359ac50ba453b4268678250b1eda1abb738be5"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "b9037b0c5bb1d7aff813d280f5d49845e0808f78f4daeb0a01347d04c51508f2"
 
@@ -1248,6 +1260,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "2eda4b018ef7e0051a300d9cc1bfe5b540303a831504ff4ab226b1b729be3083"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
@@ -1401,6 +1418,11 @@ hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "7b0e7f27e5099944fbd6ca3f6c051859e11c1818e56458ffffea7500646186ae"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
 metafile = true
@@ -1418,6 +1440,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "4c49e8056cce4128d8b1296ada37d17a682918ac090f6fb4d5f898020650e02c"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
@@ -1493,6 +1520,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "9711d153102a3d7a9379b7dc29fc1d5577ced1005315f7a3a3d2f6c90e47a40f"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "1bc74743327f85844df73f45f973fb5b394cd4abfef2ee8d0ca6383fc0d92c0b"
 metafile = true
 
 [[files]]
@@ -1601,6 +1638,11 @@ hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
@@ -1648,6 +1690,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "f6183cd7aafee9a41b77949321294ac5bd36174d5ef8f38c1e0c4a13add12f97"
 metafile = true
 
 [[files]]
@@ -1706,6 +1753,11 @@ hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "35ade0fa864cb50a62abefbbfeb35f94a0ce87efa2bb30ab5cb9af4d7b3e306a"
 metafile = true
@@ -1753,6 +1805,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/you-were-slain.pw.toml"
+hash = "236098ad7c4953781d73898e28b09c794281bd16f829465e038d7ee29b9193dd"
 metafile = true
 
 [[files]]
