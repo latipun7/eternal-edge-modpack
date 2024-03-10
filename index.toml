@@ -1516,6 +1516,11 @@ hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings-squeeglii.pw.toml"
+hash = "a360bff523da26bffa7244e16afd5670d83a5f0c0626fd8bf7b4895c95a00c93"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
