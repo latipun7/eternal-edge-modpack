@@ -801,6 +801,14 @@ file = "config/paxi/resourcepacks/§b§lEternal Edge§0/assets/minecraft/texture
 hash = "8c84f6bd7090faf16bdf671ca51277e5f5cda46686ee15fa3922357ad401637d"
 
 [[files]]
+file = "config/paxi/resourcepacks/§b§lEternal Edge§0/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "90c86fc4260a6b9d8f4ec8468d3c83768a4b68b44cd228117d63aa1fcfe86009"
+
+[[files]]
+file = "config/paxi/resourcepacks/§b§lEternal Edge§0/assets/minecraft/textures/gui/container/inventory.png"
+hash = "71d944be8b8f6e72c7aa5bfead736037d2202558ea5b26dbed4077c0fa3ba1c0"
+
+[[files]]
 file = "config/paxi/resourcepacks/§b§lEternal Edge§0/assets/minecraft/textures/item/bow.png"
 hash = "e0f7756e499f316ecbc715d95b3cce5b013c730ae873580ed9246ad8187c3702"
 
@@ -1014,7 +1022,7 @@ hash = "0969ba28b683b151149758285bd4a60fa8e20ff590432118ba66c5657a71ceea"
 
 [[files]]
 file = "config/paxi/resourcepacks/§b§lEternal Edge§0/credits.txt"
-hash = "35db715927b01c5757e7fc1068e151c5a7a5caa699fda5deb35d80eea20be4cd"
+hash = "b07d66e5682cb5b103135aab2b25a6f499163633b67b4adeb7dbfca85c75041d"
 
 [[files]]
 file = "config/paxi/resourcepacks/§b§lEternal Edge§0/pack.mcmeta"

@@ -23,4 +23,6 @@ Packs:
 
 • New Default+
 	Font & Lang
-	
+
+• CoffeeGUI
+	Make container inventory transparent
