@@ -3,11 +3,11 @@ filename = "Blades Of Majestica.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3tXcbjvK/versions/vO2OsoN9/Blades%20Of%20Majestica.zip"
+url = "https://cdn.modrinth.com/data/3tXcbjvK/versions/V2QIpHMa/Blades%20Of%20Majestica.zip"
 hash-format = "sha1"
-hash = "479eb57e03b97ec7a3876d576fe6f7a566de1cda"
+hash = "ccf2a45385a9858dd290dd9241e0c7c02dba9288"
 
 [update]
 [update.modrinth]
 mod-id = "3tXcbjvK"
-version = "vO2OsoN9"
+version = "V2QIpHMa"

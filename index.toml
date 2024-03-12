@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "31f0f0e631565dbe344c3ece27562c699a273ab4e89df1cc7803b9e271a471ea"
+hash = "ac9db59a70a810a67f8ba95e8bd8dffc9f19703a999584ae612c74ff4d0c15c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-end-crystals.pw.toml"
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/blades-of-majestica.pw.toml"
-hash = "d9b20c0afd85109dc1de066c16bfabc5a64263365ee5168e0acd0d354396a188"
+hash = "e20b5e949b15c7c8a507463950b1a31616e66cfb2040c81888ebc3138a6d6ca7"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ hash = "f23d73086224a2fb9d01684ffef169158c865355d1776af045afd6171c98ef67"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fantasy-3d-weapons-cit.pw.toml"
+hash = "30c1be48ebb7337d33e6c98616d643ffdb8b7a6b088cc953103004142533f5fb"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
@@ -138,6 +143,11 @@ hash = "052a97eae8da8639001d83b8a6bbd44d6857cf90608f23ae0c858c61374b33a9"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/twc.pw.toml"
+hash = "4bfaf0af5339a0865c71240b3c61153bd1afdcef5714b36f5365e320a7d701b6"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/twemoji-visibility.pw.toml"
 hash = "f6eec95b6e29cec63cb8ca4a88f3b57ed90faf440a650061b2ecd0bc2ac736d4"
 metafile = true
@@ -150,6 +160,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/xalis-potion.pw.toml"
 hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/zerotekzs-blades-of-war-2.pw.toml"
+hash = "eaf5f04cda5b7669042cf77ffb36c38b8193efabd2f9998745900b6c882707e7"
 metafile = true
 
 [[files]]
@@ -1722,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "945729b5d0fb1214a65f95ca0f623429e7f9b77947cbaf29add4fa500ddbc10a"
+hash = "2ca04e334382ae7c885b528a22055a7c6a144a34e2103c3118b33cb545d62877"
 metafile = true
 
 [[files]]
