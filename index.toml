@@ -1209,7 +1209,7 @@ hash = "dc6ead76948b00b9447da77384359ac50ba453b4268678250b1eda1abb738be5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b9037b0c5bb1d7aff813d280f5d49845e0808f78f4daeb0a01347d04c51508f2"
+hash = "5d6b06f47a8208496dc91a9e9fe506036c164fecbf321c3b3ea539a1f93642e1"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
@@ -1558,6 +1558,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "1bc74743327f85844df73f45f973fb5b394cd4abfef2ee8d0ca6383fc0d92c0b"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "ef9fdda74a6898c8b14be512e2b2f6b23939b6380e9a091b16fd6c906f4d16b6"
 metafile = true
 
 [[files]]
