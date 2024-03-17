@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bd0ba6038f75d3fa637aa3265921ce62cb2493c747e6ab228260c93e7f9e14c0"
+hash = "a52e5ddec84326eb3b93a60155e76f4711e41d281c5e30cfe70d19bc8d898520"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/eternal-edge.pw.toml"
-hash = "000d8ba4fc74a50ec2bfe2c7a8c8d1702fee38821e6d17a8d3b011196f7a5a1b"
+hash = "366004259a5eb64b4a15cb2beb9bb4b6e613a0eadf68b879154223614cb39466"
 metafile = true
 
 [[files]]
