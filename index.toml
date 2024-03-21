@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "69cbd119002e324c010a62f37008aa060e0f0825b050703530b05589a136950e"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a52e5ddec84326eb3b93a60155e76f4711e41d281c5e30cfe70d19bc8d898520"
+hash = "425092e11a0c0d2ae0ae01b62b6e49e4afbbea6de0621a7d0bfba7611e0fdcb8"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "c21cab6505ea877e9fe3b5187757178f710ad74ef1b20ef56489e51de5a16129"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -209,10 +217,6 @@ file = "config/yosbr/config/controlify.json"
 hash = "80969dbbb5c25a6cd9b9291222a9959b76263dec62d03555af8eb79825d2fd69"
 
 [[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "dabade14cd388ee2fd4a3c7dd433110cd19c10d1ee5ddeef52379d94b4230f4c"
-
-[[files]]
 file = "config/yosbr/config/discord-mc-chat.json"
 hash = "4806a6e2097dcef5af9584335bddf54a31e2239d4aa651319264f144477efe57"
 
@@ -283,10 +287,6 @@ hash = "07ace62c9f25faeefae73e0fc6d3a082d6a9ca62dabf9abb3636153570b93c73"
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "90e847dfc16f18b59abdbb75863000417a6b32fd7d50302eeb88b5683efc7728"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "f6fd96c50accc676fb7cc4d62189e2f7d09fa65bbc58b187b51d55e1a343fc22"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -431,11 +431,6 @@ hash = "1b770fb451d27288334ac80e585fd1d2dfa28543d89e1cce3f5b673644564f4b"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "bce6b6b17bc9101f7c97a22c2e0aacaedb6d81d3a27655d5f2418ecbf63ad824"
 metafile = true
@@ -456,8 +451,8 @@ hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn-dicedpixels.pw.toml"
-hash = "57c29e260e1f25a6752f43afe7c659b89e99e419c694cab3966999dc5a744d8a"
+file = "mods/cit.pw.toml"
+hash = "123906cf54fb7b9ed295c589ca2d6072a31e1acadd0da84f48c9a40656d3fc67"
 metafile = true
 
 [[files]]
@@ -503,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "5cd02e1361c1b2dccdf780f0bb70fea5a0f6b8955839d964c9ff34d311f125a3"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
 
 [[files]]

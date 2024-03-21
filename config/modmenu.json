@@ -22,19 +22,17 @@
   "config_mode": false,
   "disable_drag_and_drop": false,
   "hidden_mods": [
-    "minecraft",
-    "puzzle-models",
-    "puzzle-splashscreen",
     "citresewn-defaults",
     "indium",
+    "minecraft",
+    "puzzle-base",
     "puzzle-gui",
-    "puzzle-base"
+    "puzzle-models",
+    "puzzle-splashscreen"
   ],
-  "hidden_configs": [
-    "borderlessmining"
-  ],
+  "hidden_configs": [],
   "disable_update_checker": [],
   "update_checker": false,
-  "button_update_badge": true,
+  "button_update_badge": false,
   "quick_configure": true
 }
