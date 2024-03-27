@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "t_and_t-1.12.1.jar"
+filename = "t_and_t-1.12.1.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/DjLobEOy/versions/e5a9WzpA/t_and_t-1.12.1.jar"
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/bwfVhUnU/t_and_t-1.12.1.1.jar"
 hash-format = "sha1"
-hash = "1a5aa5273b41883a7db1cb2b772dced4ebd4aa8a"
+hash = "7120a6305799a028c371acc61e495e6c4cfba5f6"
 
 [update]
 [update.modrinth]
 mod-id = "DjLobEOy"
-version = "e5a9WzpA"
+version = "bwfVhUnU"
