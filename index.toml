@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "56de640fc3ecf4584007749672e5bd77bb58364ae8a20336923df60c3f02c4de"
+hash = "de73fb4170e000e3dcd04d1cd3c024f8364963c0ce18b47152d8682b96479904"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "e697a14230c98291d0645e38e29f0afa1bc9141b146f124b4e5e913c1a7b0183"
+hash = "6b194262129acc2b899cc417034a12ec896bf83f6f52d7a2f86c0aa504375d0c"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
 metafile = true
 
 [[files]]
