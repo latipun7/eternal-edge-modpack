@@ -451,8 +451,8 @@ hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
 metafile = true
 
 [[files]]
-file = "mods/cit.pw.toml"
-hash = "123906cf54fb7b9ed295c589ca2d6072a31e1acadd0da84f48c9a40656d3fc67"
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
 
 [[files]]
@@ -868,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
+metafile = true
+
+[[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "653c9767905e2b939d3b1588c70ebaafb2c2713e9897b9e82d9503b1e0f4a86b"
 metafile = true
 
 [[files]]
