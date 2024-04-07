@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/bibliophilia.pw.toml"
-hash = "9f702d006969cdbbb2cca5d31235caff21abe3e5dfe30266dc639134139ee18d"
+hash = "6092a1a1f360abff03af66a291675b32754db611bd9e0e14971c68c3bc544458"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/rethoughted-trident.pw.toml"
-hash = "d62cd4333a0082a407c920247d3a58a19b4283d820dbf636560fd8cca9bf6f05"
+hash = "b70adb16c976e2079864af83d018741eb0e74ee43439399c5b53b19bf5ecccb2"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "a12242b978d615cd871ed9be27ba2826dcee40356f20bde49d7f410eba6a9b14"
+hash = "76b5a58d8998d4315530e7bcd43db98ff3a671a9a05026de0a0682410e8713ea"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6b194262129acc2b899cc417034a12ec896bf83f6f52d7a2f86c0aa504375d0c"
+hash = "4b76308c338df7554b2849b2a4c1b951ecc9a208f19f9b9b8c792034259c152b"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "2928802be2e1160cfec349179ab43f9f611f92f5dd09f343be4671062dab4898"
+hash = "cd76f3318dde08e710fc20b03cb1aff773715789724a7d5f50d143247cfe87e9"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
+hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "f3636b986e4bf3fd2c66e393dca81170247b157b076f02160ff755e17dc792a9"
+hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5b04fc4286cf61a6f3e5ff79ff6abb1c9afd1243f3144cd7eecc5eb24a936fd6"
+hash = "2bb3613e74cbc7f107b6e2c2d8dbefa84766b2cac0e2a9085e63a230a151d773"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "044c99b8058ecf5ea41c07dbea2ccb4e9c10995eb5d7009faabafd9b5de42c4f"
+hash = "12c916c2e23ba79a799005345c0545c8e4057b987e5b6ef527b2c6e95a118a41"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "3137e86813fe4023daae7d817ee88fc257926eed195c265f7704fff31079aa1f"
+hash = "18c0691763e0795d233bf5706061712fccff9a02e56b20e8c90866cdfd3f53ee"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "5ff3f8eb488d24fc70830b805da7a33d8fa9ffa1b45d858bf60189060c56093c"
+hash = "84760358262cc7ab63eefbaf3dc3286f2b27497e1c5a224ea3d82f80889d17d7"
 metafile = true
 
 [[files]]
