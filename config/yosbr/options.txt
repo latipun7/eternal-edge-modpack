@@ -1,4 +1,5 @@
 version:3700
+fullscreenMode:2
 autoJump:false
 operatorItemsTab:true
 autoSuggestions:true
@@ -33,7 +34,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:12
+renderDistance:19
 simulationDistance:6
 entityDistanceScaling:1.0
 guiScale:3
@@ -44,8 +45,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack_resourcepacks/default_sound_pack","continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix"]
-incompatibleResourcePacks:["continuity:default_resourcepacks/default","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","ambientsounds","appleskin","autoelytra","balm-fabric","bedbenefits","bookshelf","controlling","creativecore","e4mc_minecraft","geckolib","jade","modernfix","mr_dungeons_andtaverns","replaymod","rrls","searchables"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","continuity:glass_pane_culling_fix","continuity:default","itemswapper:default","rprenames:default_dark_mode"]
+incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default","ambientsounds","appleskin","autoelytra","balm-fabric","bedbenefits","bookshelf","controlling","creativecore","e4mc_minecraft","enchdesc","geckolib","jade","modernfix","mr_dungeons_andtaverns","replaymod","rrls","searchables","xaerominimap","xaeroworldmap"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -152,7 +153,7 @@ key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_key.itemswapper.openInventory:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
@@ -161,6 +162,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.f12
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.replaymod.playeroverview:key.keyboard.b
@@ -209,7 +211,7 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.f8
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

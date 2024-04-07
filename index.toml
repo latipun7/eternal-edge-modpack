@@ -6,7 +6,7 @@ hash = "69cbd119002e324c010a62f37008aa060e0f0825b050703530b05589a136950e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "425092e11a0c0d2ae0ae01b62b6e49e4afbbea6de0621a7d0bfba7611e0fdcb8"
+hash = "00e38da16fdde17810e98ebc5f4efa8ce11944ed31f7c6e2a97a4190a84c3407"
 
 [[files]]
 file = "config/modmenu.json"
@@ -23,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "7e1bb150585985885c3c0f3b8caaecac2c206db6a94a31e4cacb885d79f9e168"
+hash = "d565d7db2bc389265c0325ee84c6e0f88bf3ca3e17ea9c3aa47312c742768482"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-end-crystals.pw.toml"
@@ -334,7 +334,7 @@ hash = "dc6ead76948b00b9447da77384359ac50ba453b4268678250b1eda1abb738be5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5d6b06f47a8208496dc91a9e9fe506036c164fecbf321c3b3ea539a1f93642e1"
+hash = "abaa36709f592faa689748b3706a45ac8125516d1f4a1f771e66ad35f4eec5ad"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"

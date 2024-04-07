@@ -5,9 +5,12 @@
     "bottom_left": [],
     "bottom_right": [
       {
-        "text": "Eternal Edge v1.0.0-beta.8",
+        "text": "Eternal Edge v1.0.0",
         "color": "aqua",
-        "clickEvent": { "action": "open_url", "value": "https://latipun.dev" }
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/latipun7/eternal-edge-modpack"
+        }
       }
     ],
     "mod_blacklist": []
