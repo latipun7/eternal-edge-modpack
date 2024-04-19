@@ -23,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d565d7db2bc389265c0325ee84c6e0f88bf3ca3e17ea9c3aa47312c742768482"
+hash = "09c3565efa1b835afe8eb95deb8b66f8ce5cd9b41d8863eb57bd42ee488fdaf1"
 
 [[files]]
 file = "config/paxi/resourcepacks/3d-end-crystals.pw.toml"
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/stay-true.pw.toml"
-hash = "b2e81df889468eb25eded7a676bd2c1ed2bfe4bee088360211d641598d5818dc"
+hash = "2e53fa019beea19f5c994e0ca984cd7c690c48396804d292b2ac76f90488e7a8"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fab27ac9755c954e411294e947ded866f78462ab905e360964e419a6f270340f"
+hash = "274974efd5518cc3087bab45b80fa3eabc7e248ef9a8be9587f44bcd3222bc63"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "76b5a58d8998d4315530e7bcd43db98ff3a671a9a05026de0a0682410e8713ea"
+hash = "60c70788c491935468f06d26f4f56e64da1b57b836862683d00383a37839ca2b"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "1b770fb451d27288334ac80e585fd1d2dfa28543d89e1cce3f5b673644564f4b"
+hash = "13bf781d0d8d7580bb57618b41be57626d104b010ba390fff9bf2aa3e34e8535"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4b76308c338df7554b2849b2a4c1b951ecc9a208f19f9b9b8c792034259c152b"
+hash = "590207f59d608672d2e7f9aa8966a09ab71403e75d76da314e7cd5dac885743d"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "cd76f3318dde08e710fc20b03cb1aff773715789724a7d5f50d143247cfe87e9"
+hash = "f13d3cfcd6e8e253fc24a727e6dbe42b8e4496133d405215596300b83b5bf7fa"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "5cd02e1361c1b2dccdf780f0bb70fea5a0f6b8955839d964c9ff34d311f125a3"
+hash = "5a2864946f972b75f08c7c466849d326696d234938ee6391538ed9dfdcc2a7d0"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "7b0e7f27e5099944fbd6ca3f6c051859e11c1818e56458ffffea7500646186ae"
+hash = "c5796559f25dec056adb41705f0f50afe1debcea6a4ae8d5efeec30c953ea50e"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
+hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
 
 [[files]]
@@ -952,12 +952,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "031a1cbb6b7ad15f3bbb59232961cc3ff2d06633f9c8d732ded5db82991b6446"
+hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7990871e681fc5b0d67baf841c0c855480979c02bf05881f7683be110a286a01"
+hash = "e92e0c8f73b049649c18fc8a5f2e9a7fe310ed6cec310811399db51b99a2b715"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4abe81b6fbba0f04f77b29c938a7ef7c9e312447e1a16e9d1f626383f85c4601"
+hash = "bd2d58c47ba0a70b61f11c5abb3cb834ba8b0ee51bbb2dc4fb83cfd5df41ca99"
 metafile = true
 
 [[files]]
