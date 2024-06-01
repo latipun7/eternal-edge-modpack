@@ -5,7 +5,7 @@
     "bottom_left": [],
     "bottom_right": [
       {
-        "text": "Eternal Edge v1.0.0",
+        "text": "Eternal Edge v1.0.1",
         "color": "aqua",
         "clickEvent": {
           "action": "open_url",

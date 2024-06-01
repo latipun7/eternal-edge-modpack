@@ -1,13 +1,13 @@
 name = "Bibliophilia | Enchanted Books"
-filename = "Bibliophilia 1.8.2 - 1.20.1 - No Fluff.zip"
+filename = "Bibliophilia 1.9 (1.20.1).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/i9S7jus0/Bibliophilia%201.8.2%20-%201.20.1%20-%20No%20Fluff.zip"
+url = "https://cdn.modrinth.com/data/50Rh3CqF/versions/AZ7RXqDX/Bibliophilia%201.9%20%281.20.1%29.zip"
 hash-format = "sha1"
-hash = "7fbc867683bab1e10a2c6754640ffed9e239484a"
+hash = "24961f3d952cb47abd817236a0b14fb240c01433"
 
 [update]
 [update.modrinth]
 mod-id = "50Rh3CqF"
-version = "i9S7jus0"
+version = "AZ7RXqDX"

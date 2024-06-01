@@ -1,13 +1,13 @@
 name = "YUNG's Better Desert Temples"
-filename = "YungsBetterDesertTemples-1.20.4-Fabric-3.4.1.jar"
+filename = "YungsBetterDesertTemples-1.20.4-Fabric-3.4.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XNlO7sBv/versions/ubWx2R23/YungsBetterDesertTemples-1.20.4-Fabric-3.4.1.jar"
+url = "https://cdn.modrinth.com/data/XNlO7sBv/versions/wCG6Lqw9/YungsBetterDesertTemples-1.20.4-Fabric-3.4.4.jar"
 hash-format = "sha1"
-hash = "b89f442b356e7f7d6498047eff069c9489d6c84e"
+hash = "520e2fd5ed19edacedba4eed677e8bc0198be17c"
 
 [update]
 [update.modrinth]
 mod-id = "XNlO7sBv"
-version = "ubWx2R23"
+version = "wCG6Lqw9"

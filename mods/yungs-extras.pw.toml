@@ -1,13 +1,13 @@
 name = "YUNG's Extras"
-filename = "YungsExtras-1.20.4-Fabric-4.4.0.jar"
+filename = "YungsExtras-1.20.4-Fabric-4.4.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/F1adMKW8/YungsExtras-1.20.4-Fabric-4.4.0.jar"
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/hEhjUqf6/YungsExtras-1.20.4-Fabric-4.4.2.jar"
 hash-format = "sha1"
-hash = "152b667f2d04757872342ec8e6841d9584861062"
+hash = "cc0ec3884bbd6d156a3f315f4f022d592d8f1155"
 
 [update]
 [update.modrinth]
 mod-id = "ZYgyPyfq"
-version = "F1adMKW8"
+version = "hEhjUqf6"

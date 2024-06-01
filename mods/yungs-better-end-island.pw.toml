@@ -1,13 +1,13 @@
 name = "YUNG's Better End Island"
-filename = "YungsBetterEndIsland-1.20.4-Fabric-2.4.1.jar"
+filename = "YungsBetterEndIsland-1.20.4-Fabric-2.4.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/sPWRtsih/YungsBetterEndIsland-1.20.4-Fabric-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/xAXIqv7e/YungsBetterEndIsland-1.20.4-Fabric-2.4.3.jar"
 hash-format = "sha1"
-hash = "c6702a5a396d9294cc1dd34d1d47eef767a34615"
+hash = "8127ff948ca9e043e4881f099e4c0f9ff5f1d132"
 
 [update]
 [update.modrinth]
 mod-id = "2BwBOmBQ"
-version = "sPWRtsih"
+version = "xAXIqv7e"
