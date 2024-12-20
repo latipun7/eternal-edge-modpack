@@ -1,0 +1,11 @@
+{
+  "sorting": "ascending",
+  "count_libraries": false,
+  "compact_list": false,
+  "count_children": true,
+  "mods_button_style": "shrink",
+  "game_menu_button_style": "insert",
+  "count_hidden_mods": false,
+  "show_libraries": false,
+  "update_checker": false
+}

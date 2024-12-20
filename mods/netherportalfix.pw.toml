@@ -1,13 +1,13 @@
 name = "NetherPortalFix"
-filename = "netherportalfix-fabric-1.20.4-15.0.1.jar"
+filename = "netherportalfix-fabric-1.21.1-21.1.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nPZr02ET/versions/VtIpicaF/netherportalfix-fabric-1.20.4-15.0.1.jar"
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/KtMN6zDF/netherportalfix-fabric-1.21.1-21.1.1.jar"
 hash-format = "sha1"
-hash = "1983ed66f1ee2854153fc96c7b02ec471bcbae7d"
+hash = "e76c5ad84cbd75e6f77b5db206cee49e3aee3e24"
 
 [update]
 [update.modrinth]
 mod-id = "nPZr02ET"
-version = "VtIpicaF"
+version = "KtMN6zDF"

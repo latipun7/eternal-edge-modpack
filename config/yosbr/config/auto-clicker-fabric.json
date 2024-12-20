@@ -1,1 +1,13 @@
-{"leftClick":{"respectCooldown":true,"mobMode":true,"active":true,"spamming":false,"cpt":0},"rightClick":{"active":true,"spamming":false,"cpt":0},"jump":{"active":false,"spamming":false,"cpt":0}}
+{
+  "leftClick": {
+    "respectCooldown": true,
+    "respectShield": false,
+    "mobMode": true,
+    "active": true,
+    "spamming": false,
+    "cpt": 0
+  },
+  "rightClick": { "active": true, "spamming": false, "cpt": 0 },
+  "jump": { "active": false, "spamming": false, "cpt": 0 },
+  "hudConfig": { "enabled": true, "location": "bottom-left" }
+}

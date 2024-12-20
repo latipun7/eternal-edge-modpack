@@ -1,0 +1,13 @@
+name = "Pebble Paths"
+filename = "pebble_paths.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1GBiYC9U/versions/xKTbkOpx/pebble_paths.zip"
+hash-format = "sha1"
+hash = "a3aaba1854ba2f07ed5cf6b3ca1e765ecfcbd268"
+
+[update]
+[update.modrinth]
+mod-id = "1GBiYC9U"
+version = "xKTbkOpx"

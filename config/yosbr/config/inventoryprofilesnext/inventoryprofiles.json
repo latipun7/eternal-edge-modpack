@@ -1,11 +1,10 @@
 {
-    "ModSettings": {
-        "first_run": false
-    },
-    "GuiSettings": {
-        "continuous_crafting_saved_value": false
-    },
-    "EditProfiles": {
-        "quick_slot_1_profile": "beginner_exploration"
+  "AutoRefillSettings": {
+    "auto_refill_enable_indicator_icons": {
+      "value": false
     }
+  },
+  "EditProfiles": {
+    "quick_slot_1_profile": "beginner_exploration"
+  }
 }

@@ -1,0 +1,13 @@
+name = "Drodi's Illagers Fresh Animation"
+filename = "§6Drodi's Illagers FA [V4.8].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4Y2W7Ny/versions/xLXBh6Cx/%C2%A76Drodi%27s%20Illagers%20FA%20%5BV4.8%5D.zip"
+hash-format = "sha1"
+hash = "9166510bd76c5c0ac0d8da142469f3350f550762"
+
+[update]
+[update.modrinth]
+mod-id = "P4Y2W7Ny"
+version = "xLXBh6Cx"

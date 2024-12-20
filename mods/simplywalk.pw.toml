@@ -1,0 +1,13 @@
+name = "SimplyWalk"
+filename = "simplywalk-1.0.0-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQ8Qr4tT/versions/Q3eqBVGr/simplywalk-1.0.0-fabric-1.21.1.jar"
+hash-format = "sha1"
+hash = "1b4e7c8e678de4669ac06013f65f8a7a428a5f9e"
+
+[update]
+[update.modrinth]
+mod-id = "dQ8Qr4tT"
+version = "Q3eqBVGr"

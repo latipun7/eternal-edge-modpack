@@ -1,0 +1,13 @@
+name = "Immersive UI"
+filename = "ImmersiveUI-FABRIC-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/HDmlmGOr/ImmersiveUI-FABRIC-0.2.2.jar"
+hash-format = "sha1"
+hash = "b1714257d74b03463bbe51dcc619d5e3d8ea7939"
+
+[update]
+[update.modrinth]
+mod-id = "9wv7LuMc"
+version = "HDmlmGOr"

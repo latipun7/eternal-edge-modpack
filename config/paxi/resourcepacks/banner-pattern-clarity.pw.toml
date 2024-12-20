@@ -1,0 +1,13 @@
+name = "Banner Pattern Clarity"
+filename = "Banner Pattern Clarity v1.5 pf8-34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uigm3P2d/versions/PbK522kr/Banner%20Pattern%20Clarity%20v1.5%20pf8-34.zip"
+hash-format = "sha1"
+hash = "afc1e6b77bfecdbf8af6d7ad0069f2a373d9c116"
+
+[update]
+[update.modrinth]
+mod-id = "Uigm3P2d"
+version = "PbK522kr"

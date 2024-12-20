@@ -1,0 +1,13 @@
+name = "Dark GUI Experience+"
+filename = "§8§lDark GUI Experience+§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WFPPRLjW/versions/VqAqzXc0/%C2%A78%C2%A7lDark%20GUI%20Experience%2B%C2%A70.zip"
+hash-format = "sha1"
+hash = "939e38a45ef58a93d44d2c53c7c87e307a93a5d2"
+
+[update]
+[update.modrinth]
+mod-id = "WFPPRLjW"
+version = "VqAqzXc0"

@@ -1,8 +1,0 @@
-name = "Eternal Edge: Custom Resource Pack"
-filename = "§b§lEternal Edge§0.zip"
-side = "client"
-
-[download]
-hash-format = "sha256"
-hash = "7443752dc1794b55baa43cb0e757beba0d825d6d9a065cee7562f851bb215886"
-url = "https://onedrive.live.com/download?resid=7BED447080B8AC5%2119880&authkey=!AAX7tYtlVVMepck"

@@ -1,0 +1,13 @@
+name = "Visual Armor Trims"
+filename = "visual_armor_trims_v2.1_1.21.X.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPtjib62/versions/eDbF1DEW/visual_armor_trims_v2.1_1.21.X.zip"
+hash-format = "sha1"
+hash = "1d79ae2eee5e068907c9e4551f210efe9df40e29"
+
+[update]
+[update.modrinth]
+mod-id = "tPtjib62"
+version = "eDbF1DEW"

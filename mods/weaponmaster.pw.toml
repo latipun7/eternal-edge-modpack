@@ -1,0 +1,13 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster_ydm-fabric-1.21-4.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qi1sj2da/versions/1WU1u1fM/weaponmaster_ydm-fabric-1.21-4.2.6.jar"
+hash-format = "sha1"
+hash = "5309c15c387b1bde146345d14037f878662df4c9"
+
+[update]
+[update.modrinth]
+mod-id = "qi1sj2da"
+version = "1WU1u1fM"

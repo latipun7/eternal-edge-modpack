@@ -1,8 +1,0 @@
-name = "Immersive Paintings squeeglii's fork"
-filename = "immersive_paintings-0.6.7+1.20.4-fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/squeeglii/Immersive-Paintings/releases/download/0.6.7%2B1.20.4/immersive_paintings-0.6.7+1.20.4-fabric.jar"
-hash-format = "sha256"
-hash = "556d0c878fd94b6591e5852ef2c2fa1600189cd31b73c45e1f5827b6ec91d63e"

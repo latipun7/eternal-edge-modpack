@@ -1,0 +1,13 @@
+name = "Icon Xaero's X FreshAnimations"
+filename = "Icon Xaero's X FreshAnimations.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/iUDbqQe4/Icon%20Xaero%27s%20X%20FreshAnimations.zip"
+hash-format = "sha1"
+hash = "810cc5bdb4cdb7a5678f3fe4672f91f23e072086"
+
+[update]
+[update.modrinth]
+mod-id = "u4iPx1Dr"
+version = "iUDbqQe4"

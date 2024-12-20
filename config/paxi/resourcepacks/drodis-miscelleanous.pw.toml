@@ -1,0 +1,13 @@
+name = "Drodi's Miscelleanous"
+filename = "§9Drodi's Miscellaneous [V1.5].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ewm918U1/versions/JjFbKFWT/%C2%A79Drodi%27s%20Miscellaneous%20%5BV1.5%5D.zip"
+hash-format = "sha1"
+hash = "e099150be821f2c1371d5b090bd5884dd8aefbf7"
+
+[update]
+[update.modrinth]
+mod-id = "Ewm918U1"
+version = "JjFbKFWT"

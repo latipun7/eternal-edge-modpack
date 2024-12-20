@@ -1,17 +1,17 @@
 name = "Eternal Edge"
 author = "Latipun"
-version = "1.0.1"
+version = "1.21.1-pack.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "405490f7a58c796ff3527f6826499c8c4226bc8d3ce96417d70491f8a1fadeaa"
+hash = "d3f65549b13ca4ca9a917fa90a0e69acf69a8d7811799af58f6a3319bde40f58"
 
 [versions]
-fabric = "0.15.7"
-minecraft = "1.20.4"
+fabric = "0.16.9"
+minecraft = "1.21.1"
 
 [options]
-acceptable-game-versions = ["1.20.1", "1.20.2"]
+acceptable-game-versions = ["1.21"]
 datapack-folder = "config/paxi/datapacks"

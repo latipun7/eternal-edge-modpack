@@ -1,0 +1,8 @@
+name = "Vanilla Tweaks"
+filename = "VanillaTweaks_r210038_MC1.21.x.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e23d8b99b6d60265e76e22930a58e3758a0bd868"
+url = "https://github.com/latipun7/public-files/releases/download/vt-rp/VanillaTweaks_r210038_MC1.21.x.zip"
