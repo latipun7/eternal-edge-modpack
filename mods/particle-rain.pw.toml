@@ -1,0 +1,13 @@
+name = "Particle Rain"
+filename = "particle-rain-3.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/SApJHIsL/particle-rain-3.0.5.jar"
+hash-format = "sha1"
+hash = "f8671077c4ef8168444c7908e62208cc327513bc"
+
+[update]
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "SApJHIsL"

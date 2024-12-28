@@ -1,0 +1,13 @@
+name = "Lectern Overhaul"
+filename = "lectern-overhaul-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4NooE2hx/versions/Ggbvtzbk/lectern-overhaul-1.0.jar"
+hash-format = "sha1"
+hash = "1da1c46706acced3306c5f56942d31ac531afcda"
+
+[update]
+[update.modrinth]
+mod-id = "4NooE2hx"
+version = "Ggbvtzbk"

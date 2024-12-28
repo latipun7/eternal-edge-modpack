@@ -1,0 +1,13 @@
+name = "Effect Descriptions"
+filename = "EffectDescriptions-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw73iLDq/versions/VH6GJvlP/EffectDescriptions-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha1"
+hash = "8dcfb515463cbcef3babb276e6fc2cc66992b1b4"
+
+[update]
+[update.modrinth]
+mod-id = "Kw73iLDq"
+version = "VH6GJvlP"

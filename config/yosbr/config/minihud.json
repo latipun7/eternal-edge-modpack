@@ -1,7 +1,13 @@
 {
   "Generic": {
     "fontScale": 0.7,
-    "useTextBackground": false
+    "useTextBackground": false,
+    "mainRenderingToggle": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
   },
   "InfoTypeToggles": {
     "infoFPS": true,

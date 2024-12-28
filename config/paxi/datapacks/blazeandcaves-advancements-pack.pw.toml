@@ -1,11 +1,11 @@
-name = "BlazeandCave's Advancements Pack"
 filename = "BlazeandCave's Advancements Pack 1.17.2.zip"
-side = "both"
+name = "BlazeandCave's Advancements Pack"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/VoVJ47kN/versions/b3J8pJcW/BlazeandCave%27s%20Advancements%20Pack%201.17.2.zip"
-hash-format = "sha1"
 hash = "9567d2b906ecb04bbdb97443754a162fc0fa6ca8"
+hash-format = "sha1"
+url = "https://cdn.modrinth.com/data/VoVJ47kN/versions/b3J8pJcW/BlazeandCave%27s%20Advancements%20Pack%201.17.2.zip"
 
 [update]
 [update.modrinth]

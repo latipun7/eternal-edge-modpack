@@ -1,0 +1,13 @@
+name = "Cool Elytra Roll"
+filename = "cool_elytra-1.5.1-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnJMIIQ2/versions/rTcub3Ay/cool_elytra-1.5.1-mc1.21.jar"
+hash-format = "sha1"
+hash = "3f9e2cc2a4a4de692fd3e97dc0e118fb4e1a0e91"
+
+[update]
+[update.modrinth]
+mod-id = "TnJMIIQ2"
+version = "rTcub3Ay"

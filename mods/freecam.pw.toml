@@ -1,0 +1,13 @@
+name = "Freecam"
+filename = "freecam-fabric-modrinth-1.3.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/vomskVK3/freecam-fabric-modrinth-1.3.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "2624c852dd6fdf74a98491dbe80eaba168537816"
+
+[update]
+[update.modrinth]
+mod-id = "XeEZ3fK2"
+version = "vomskVK3"
