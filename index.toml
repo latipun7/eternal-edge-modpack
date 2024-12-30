@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "ee27b702fb4ead4886ce713faea8d4812b1c662044df27f36f496631acddccbf"
+hash = "3ee9eca2ee4dd654651695ab4adf513b036d38f548409a0bab31f92bbc18a016"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e79e16e442ac4b3da94c1515e8d9ac5baaeab7c9589f0ff0ebebf1574d77255"
+hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c37a2ab9ceea1d0e597940f312ce86a58189d441dc3701a4f69e3911c8280bcd"
+hash = "889f968af4d8026ac80a8c6027193b1060b5880e8d8f3ff5eb72793cd4496c1c"
 metafile = true
 
 [[files]]
@@ -876,12 +876,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "42aef681e14d2a2fe49002290c368919e3b7d76ec4e6ca4bbbf096be66aba1af"
+hash = "696bb70cc17d4bbb945ead95de023bd9e7776d8f5b70b0e9217381d8270278a9"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "76b5a30cb28106d939ae39e348da18be2193fea719d12df81e1149d261e6a861"
+hash = "c071e765ac7ad570acb36534d4d33b76fa0e10cd341ce357b5bb89792a6aa1ea"
 metafile = true
 
 [[files]]
