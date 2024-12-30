@@ -298,7 +298,7 @@ hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8c64aa1061c2a97e3a5e418633dd0f2e30a94685b29b07bc13c5d9e79dc404f7"
+hash = "451cf9ea34dc099ee291c6c36197b318e77ce1c277f600f7479ad40c2e19ba88"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
@@ -930,6 +930,11 @@ hash = "68df9a2e507a6bba70f999042e5bec064b6ebae992f8620e7f19082e08b6cc9c"
 metafile = true
 
 [[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "76944bb902bac1a9f85e30c2aa97905b0421d7a75878f0abc7682ece8240df04"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
@@ -1072,6 +1077,11 @@ metafile = true
 [[files]]
 file = "mods/simplywalk.pw.toml"
 hash = "eb0bb77b866f1460e7bf0f84eb0d4579b5597df026cf8af22420d11030c0b5ca"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "9c9f064a1a562758b41e13ec28c27197b00401533a123e7e414e4a15cfe626bb"
 metafile = true
 
 [[files]]
