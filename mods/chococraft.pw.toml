@@ -1,13 +1,13 @@
 name = "Chococraft"
-filename = "chococraft-1.21.1-fabric-0.11.8.jar"
+filename = "chococraft-1.21.1-fabric-0.11.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/ZCCdD8wi/chococraft-1.21.1-fabric-0.11.8.jar"
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/MLi2Tsx9/chococraft-1.21.1-fabric-0.11.9.jar"
 hash-format = "sha1"
-hash = "df7a017f6a96faefe19bd18997af4c647f1d76c6"
+hash = "59cfb3e5318a65b9b9a531166514dd3d12ae8585"
 
 [update]
 [update.modrinth]
 mod-id = "bPTEaC7v"
-version = "ZCCdD8wi"
+version = "MLi2Tsx9"

@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "976a298fc3746c22fe9c8afcb8e27ee5f12c5d2bc69884c22e3562309ca4fcec"
+hash = "1e13c64f8e5f98599c92831d6d4c96368625f531b05b700249902437dd7d16df"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
@@ -293,6 +293,10 @@ file = "config/yosbr/config/xaerominimap_entities.json"
 hash = "9ada1620c5639ee90457677995dc6af297bf065c3d8116c9fa35eae302b62260"
 
 [[files]]
+file = "config/yosbr/config/yigd.json"
+hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "8c64aa1061c2a97e3a5e418633dd0f2e30a94685b29b07bc13c5d9e79dc404f7"
 
@@ -322,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "de06e51c9da3f88717b0366dedb3c5d59b07211b77091ee5cd7f5a2641690aec"
+hash = "c89e251403a286fb4a2f6088934ae64de4315b660d1cfcbbfe5d4b2ea045eba7"
 metafile = true
 
 [[files]]
@@ -412,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "d5daa15ab5ac3bad6b2fb7af0ca6c62d5deaac4f33b9e0923c740c6f9840d947"
+hash = "ee27b702fb4ead4886ce713faea8d4812b1c662044df27f36f496631acddccbf"
 metafile = true
 
 [[files]]
@@ -467,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/chococraft.pw.toml"
-hash = "6abd8b43649b70a321176a26b3a84d680bf09b4281a67432cb28dd58e16ceb61"
+hash = "b9d021874706bdb551384c0821029a715bf61ee5eed7c57fd3b8c606f56fd5db"
 metafile = true
 
 [[files]]
@@ -702,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "bf60fa9dd0d51dedbc5c4889c060f39867674e27db12f170e93c0b58e50de624"
+hash = "d6b47dd173774b1c674bef8fbdc62b8190c173ace996d5ed61a6c66ce70938d8"
 metafile = true
 
 [[files]]
@@ -742,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "019fe007f35df21de778d28f7da9a9aee3f3b6ce0a1471223d12def6b2a68f45"
+hash = "c460724af180a746f4d8b9cf57a7d5f3245ec16216f1696e9db0fabb40080035"
 metafile = true
 
 [[files]]
@@ -1007,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2c20e5fd7f2a9688db6b4e023d29a342d0c7665e5e89fee2aae3e092c24565fe"
+hash = "589ea39895a09b18a0270eabf6d79def4e7c178549ac35062b2f0d8731fd1eae"
 metafile = true
 
 [[files]]
