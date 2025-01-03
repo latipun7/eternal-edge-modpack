@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "1e13c64f8e5f98599c92831d6d4c96368625f531b05b700249902437dd7d16df"
+hash = "51ab73eb0dcc983f29415b55544ee77d26860a02dd403f0495e9aeb25abe6711"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/default-dark-mode-expansion.pw.toml"
-hash = "ec2a8c712af482526a31007950da5ac05dcce52528c1f5ae897003acf5fb1c9e"
+hash = "adb2d85da7964073fe9e8fe16067ab32fe30baaa4d644570d383c7fcba09b385"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/simple-grass-flowers.pw.toml"
-hash = "b95472b7b7d9210c1c4190091c9f7d44cf5b5dd67d81432faafa5f44112a6729"
+hash = "b3a4b2c80fdf07113a637490be6a2e03171eee549bfa9d3bd0e982e19412046e"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "451cf9ea34dc099ee291c6c36197b318e77ce1c277f600f7479ad40c2e19ba88"
+hash = "510e15c485703bf4b8a92079c17474480b95e702afb577fe5cc0819992644880"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
@@ -380,18 +380,13 @@ hash = "73a960ae5c2f872c9db8b45a792f1956be1f76f26644e0b3e9a1af849c58adf5"
 metafile = true
 
 [[files]]
-file = "mods/better-f1-reborn.pw.toml"
-hash = "e4c023a7c604991d61ea69d41c630357b4b11f5931129f4748244ea88ba5f69a"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "162bfbd5446a2f5b4c6db952b66aacb34ec72af00be2e20f2e32bdf979884d6b"
+hash = "f444cc7ce6308679825318d380b85dd08307eb429361ff5fb604dae0608fb656"
 metafile = true
 
 [[files]]
@@ -416,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "3ee9eca2ee4dd654651695ab4adf513b036d38f548409a0bab31f92bbc18a016"
+hash = "671def44e3c05f8a17b9489f06dfaa078818e937cd7b72e9387d045b9c553d0a"
 metafile = true
 
 [[files]]
@@ -426,17 +421,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4c59e799847c93f04faebf97a3656ca78770dd47e419b76c4a00c0818a13bbc0"
+hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
 metafile = true
 
 [[files]]
 file = "mods/camerapture.pw.toml"
-hash = "a879662443a0d3057179a6d3af604581ccb1143c1b03de4770ab7a8b3122312d"
-metafile = true
-
-[[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
+hash = "9eb688a39cb4b0175baa4d7bf2a259f57e034955e251ce5d9a061fa441dfcb2c"
 metafile = true
 
 [[files]]
@@ -492,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a5ac1fd939338cc2f6f87c2d632432fdc25e96c8c5fc0db17fec939024229a3c"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "bc9c8d4911ffdd3b272ed6f9afc51b0af94a8c5012e3d35b13bf885761705836"
 metafile = true
 
 [[files]]
@@ -801,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "5710aad033df5601f8eaade3306fd9159a27ac9a99a83399efaed16c910ac831"
+hash = "4c108291e157375acbd48597b284acf215b505f366edee62f608f9720bf94409"
 metafile = true
 
 [[files]]
@@ -1016,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "589ea39895a09b18a0270eabf6d79def4e7c178549ac35062b2f0d8731fd1eae"
+hash = "517f2ae58642e324454674d40fb60c4a2b62125786dc55978702b6c9bc397efc"
 metafile = true
 
 [[files]]
@@ -1111,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "f79bb9809a5e9a953fa1ba04758623d1bb8cd1549c3023421055ced88112bad6"
+hash = "86432b755da9d1eac6399378c471d1620de059410414969ead18c08dcb3c3333"
 metafile = true
 
 [[files]]
@@ -1127,11 +1122,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e85d197599166808b255b62a38ae27821170c1874ffc73b9d6b0491c5aa5ea2e"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "dfba6367a29c57cd6e99e2a24eeb4e4aa44d0058800f5b0a1cb88685c6bdf84e"
 metafile = true
 
 [[files]]
@@ -1152,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "519c532586879c46063bf32b271c1d0608af04a204eea0d0ba1634f9d4bc8df9"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "7e5f765feca0b064138a9da17bb355cf769c8660c7bff25f4e09707add135e96"
 metafile = true
 
 [[files]]

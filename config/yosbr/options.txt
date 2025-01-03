@@ -4,7 +4,7 @@ fullscreen:true
 guiScale:3
 maxFps:260
 simulationDistance:6
-operatorItemsTab:false
+operatorItemsTab:true
 darkMojangStudiosBackground:true
 lang:en_us
 advancedItemTooltips:true
@@ -16,7 +16,8 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_keybinding.open-gui:key.keyboard.unknown
-key_key.deeperdarker.boost:key.keyboard.caps.lock
+key_keybinds.combat_roll.roll:key.keyboard.caps.lock
+key_key.deeperdarker.boost:key.keyboard.right.alt
 key_key.deeperdarker.transmit:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_key.niftycarts.action:key.keyboard.h
@@ -27,6 +28,7 @@ key_key.raised.options:key.keyboard.apostrophe
 key_key.simplywalk.toggle:key.keyboard.x
 key_key.smallships.ship_sail:key.keyboard.j
 key_key.smallships.cannon_barrel_enter:key.keyboard.o
+key_key.trade_cycling.cycle_trades:key.keyboard.semicolon
 key_key.travelersbackpack.cycle_tool:key.keyboard.grave.accent
 key_key.travelersbackpack.toggle_tank:key.keyboard.g
 key_key.weaponmaster_ydm.opengui:key.keyboard.n
