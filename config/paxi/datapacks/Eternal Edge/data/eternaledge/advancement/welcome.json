@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond"
+    },
+    "title": "Guider to the Eternal Edge",
+    "description": "Welcome to the Eternal Edge.",
+    "frame": "goal",
+    "background": "minecraft:textures/block/diamond_block.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "welcome_to_eternal_edge": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "rewards": {
+    "loot": ["eternaledge:guider_eternal_edge"]
+  }
+}

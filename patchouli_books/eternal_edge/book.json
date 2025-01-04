@@ -1,0 +1,14 @@
+{
+  "name": "Guider Eternal Edge",
+  "landing_text": "Welcome to the Eternal Edge, $(player)$(playername)$()! $(p)Here, you can access notable info about this world to fully enjoy your adventures in $(bold)Eternal Edge$().",
+  "book_texture": "patchouli:textures/gui/book_cyan.png",
+  "model": "patchouli:book_cyan",
+  "macros": {
+    "$(player)": "$(#4bcaee)"
+  },
+  "version": 1,
+  "show_progress": false,
+  "text_overflow_mode": "resize",
+  "creative_tab": "minecraft:tools_and_utilities",
+  "use_blocky_font": true
+}

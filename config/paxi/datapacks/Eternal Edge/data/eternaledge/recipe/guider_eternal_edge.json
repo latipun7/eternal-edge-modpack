@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["# #", " b "],
+  "key": {
+    "#": { "item": "minecraft:diamond" },
+    "b": { "item": "minecraft:book" }
+  },
+  "result": {
+    "count": 1,
+    "id": "patchouli:guide_book",
+    "components": {
+      "patchouli:book": "patchouli:eternal_edge"
+    }
+  }
+}

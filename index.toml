@@ -5,6 +5,30 @@ file = "config/paxi/datapack_load_order.json"
 hash = "8f51bb16857a9668512f01334c8c2b95273867da229692c0daff400c95519128"
 
 [[files]]
+file = "config/paxi/datapacks/Eternal Edge/data/eternaledge/advancement/recipes/guider_eternal_edge.json"
+hash = "450b9bf634f8548d0c66ff5054ae074f6583c97477b7d5c4602a52f4241cea3b"
+
+[[files]]
+file = "config/paxi/datapacks/Eternal Edge/data/eternaledge/advancement/welcome.json"
+hash = "a96baba648ea71340f49b7964bbfe715de3ee149239c68348e5af8eb17bffda5"
+
+[[files]]
+file = "config/paxi/datapacks/Eternal Edge/data/eternaledge/loot_table/guider_eternal_edge.json"
+hash = "f7a3f88bcbb09e9d840bb6b627d49c072e5d788c4ead1f8b3187c195ce1f8f9d"
+
+[[files]]
+file = "config/paxi/datapacks/Eternal Edge/data/eternaledge/recipe/guider_eternal_edge.json"
+hash = "a3f1f1507212dddaa1368e0a0293ee0c8441b54c9f24d4d448781b8cd9557d98"
+
+[[files]]
+file = "config/paxi/datapacks/Eternal Edge/pack.mcmeta"
+hash = "6cb3769ed5d72fd5ae85e3be075045d889bb8f502705b5838acc1b1bf4eb987e"
+
+[[files]]
+file = "config/paxi/datapacks/Eternal Edge/pack.png"
+hash = "ebd61d6580efec3795a039fd0a088760aa986a7b79d5f514373dfdaf8e7ce09b"
+
+[[files]]
 file = "config/paxi/datapacks/blazeandcaves-advancements-pack.pw.toml"
 hash = "40a5a11a79eecba35e3c271715ef5d398ac707d8f636dc9dc13d26d8cc2e1fc3"
 metafile = true
@@ -1288,6 +1312,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "2ae5b0fa11f7c2ea80631e7dd0ca15c4f94349415671cd403cfc8a59fcda1bdd"
 metafile = true
+
+[[files]]
+file = "patchouli_books/eternal_edge/book.json"
+hash = "46256dcea1ae1a1de2585e7602ad65d0df4afa391c3e0bad4164c5e96d9df5b6"
 
 [[files]]
 file = "schematics/Building/Bridge - Mangrove Zen.litematic"
