@@ -1,0 +1,13 @@
+name = "Varied Pumpkins"
+filename = "Varied_Pumpkins_v120.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6TI7e1rR/versions/zMxl1McV/Varied_Pumpkins_v120.zip"
+hash-format = "sha1"
+hash = "fc4292487e6a523fc65b981810fd4843e9ef0d7a"
+
+[update]
+[update.modrinth]
+mod-id = "6TI7e1rR"
+version = "zMxl1McV"

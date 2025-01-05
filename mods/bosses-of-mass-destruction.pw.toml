@@ -1,0 +1,13 @@
+name = "Bosses of Mass Destruction"
+filename = "BOMD-1.10.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/du3UfiLL/versions/aSCbUUL1/BOMD-1.10.2-1.21.1.jar"
+hash-format = "sha1"
+hash = "98d20fba57e2ecbf309e15285449cb91eee19bda"
+
+[update]
+[update.modrinth]
+mod-id = "du3UfiLL"
+version = "aSCbUUL1"

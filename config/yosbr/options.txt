@@ -20,6 +20,7 @@ key_keybinds.combat_roll.roll:key.keyboard.caps.lock
 key_key.deeperdarker.boost:key.keyboard.right.alt
 key_key.deeperdarker.transmit:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
+key_key.musicnotification.open_screen:key.keyboard.left.bracket
 key_key.niftycarts.action:key.keyboard.h
 key_key.niftycarts.slow:key.keyboard.k
 key_key.optigui.inspect:key.keyboard.unknown

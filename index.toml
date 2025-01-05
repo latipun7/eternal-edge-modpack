@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "51ab73eb0dcc983f29415b55544ee77d26860a02dd403f0495e9aeb25abe6711"
+hash = "8cdc5baa8c666ab1143959716e97518197e397c553c3f81661c08aae0ac5911c"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
@@ -75,6 +75,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/cheetahs-weapons.pw.toml"
 hash = "404e66135229b51c90551cf167d7acccbea22e688b5cef3976c2b9fd5da0ae87"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/chests-reimagined.pw.toml"
+hash = "9015917bc625fafe6afba14e15b96b0fbeac641d8b54a33503d706cddd02591d"
 metafile = true
 
 [[files]]
@@ -218,6 +223,11 @@ hash = "5494bf00e9041f14e58a8eb79cfb1b1017ad8b498724c5d8d8c9897e1ad383a6"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/varied-pumpkins.pw.toml"
+hash = "e6b05f10054d495e0c38a51d1b819d456193202fdaca49d8b8ba4413ebe67f3f"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/visual-armor-trims.pw.toml"
 hash = "e29deb143a1685f38cbf7d6bcc2add839533ea42cb73886c6458eb8098f1b22e"
 metafile = true
@@ -281,6 +291,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "a4ec929f6a6fcefdac6504e8a4973e47e8d5ffb72c340a53fd8c627042fad6c4"
 
 [[files]]
+file = "config/yosbr/config/musicnotification.json"
+hash = "c585bae303b7e81229cf2e9bc49a77ad7104fdce42524f61ad2dd3b2e674f002"
+
+[[files]]
 file = "config/yosbr/config/notenoughanimations.json"
 hash = "3e0a0bea6919e24a6e8dc092b15084ffcbbd46ba030e187c16c3e638dbefb810"
 
@@ -322,7 +336,7 @@ hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "510e15c485703bf4b8a92079c17474480b95e702afb577fe5cc0819992644880"
+hash = "9d850cd2591103fe761e8ea995564fea9d1300d0e5510daf2b7de5c9d32ea651"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
@@ -439,18 +453,23 @@ hash = "671def44e3c05f8a17b9489f06dfaa078818e937cd7b72e9387d045b9c553d0a"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "c0bb641b379fb1908cc51bf0260721e0bf5f912843325ae8e613931a4950fb88"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "106a9341c1d6cdcacdeff5109ad28aecf2b75f1413d098e15be1398982a5faa6"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
+file = "mods/camerapture.pw.toml"
+hash = "9eb688a39cb4b0175baa4d7bf2a259f57e034955e251ce5d9a061fa441dfcb2c"
 metafile = true
 
 [[files]]
-file = "mods/camerapture.pw.toml"
-hash = "9eb688a39cb4b0175baa4d7bf2a259f57e034955e251ce5d9a061fa441dfcb2c"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
 metafile = true
 
 [[files]]
@@ -584,8 +603,13 @@ hash = "1324266f117c61f51c955f6a08620d648b9c2bb1efb99c60414c6451129f6f85"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "a68ce5ecf4c0f59349263d29926271d4b591467e9e5edaf4e286c5c4e6e58eca"
+metafile = true
+
+[[files]]
 file = "mods/discord-mc-chat.pw.toml"
-hash = "499c26c67d4efceb44f15d98bb18bcdb9e069c50da960c49907de613d732c736"
+hash = "30520e523b37370febde24c888bb6f3c201117a8d6926a2db1b628b4233820de"
 metafile = true
 
 [[files]]
@@ -744,6 +768,11 @@ hash = "471e8f5176d2cc3b45aa1214ec278367d959f9b0169983037fd5fd664fb0cf3e"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "7de146e5de5f024f4b9b1aa0cc921a313f740b7fb45e2b9f6f5c3f3a3f612cae"
+metafile = true
+
+[[files]]
 file = "mods/flow.pw.toml"
 hash = "4e48fdd28304a7a43dc9e2e8946abe8b80ed15d9507ea2f33a02c7df7fd01cbf"
 metafile = true
@@ -761,6 +790,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "1281f9c20e0c7eb4fdde889ff27193008e6e8741d67664c17dedb838dddbf13a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
 metafile = true
 
 [[files]]
@@ -944,6 +978,11 @@ hash = "f0a3a785bb43a9a4f130a07a82e13c699b899b42437137037c67fe37c10f36a4"
 metafile = true
 
 [[files]]
+file = "mods/music-notification.pw.toml"
+hash = "888e1dbb79478243a31a0fbcd875a4f8454c4becd076416b1267ff5be9e8aed6"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "68df9a2e507a6bba70f999042e5bec064b6ebae992f8620e7f19082e08b6cc9c"
 metafile = true
@@ -951,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "76944bb902bac1a9f85e30c2aa97905b0421d7a75878f0abc7682ece8240df04"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
@@ -1089,6 +1133,11 @@ hash = "35d3cdb2869fbce36254a790292e0aab71b04b70f6eb378e03fd09c92c241338"
 metafile = true
 
 [[files]]
+file = "mods/scribble.pw.toml"
+hash = "a9156ee544dee9c9b174b5d6f3db28bf3db00f54a40e7f047ad1aecd70e26fee"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "fd3ca3a862640f7ad76d46a7e7551e487c3d48e9107e8e1f40e065fe3fd8a4ed"
 metafile = true
@@ -1146,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "e85d197599166808b255b62a38ae27821170c1874ffc73b9d6b0491c5aa5ea2e"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "8432c3e7414693913204d32d006ec8288ade351e9c73d7a8d6e8f0bf66e593af"
 metafile = true
 
 [[files]]
@@ -1221,6 +1275,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4bff412d3a71ce97141788f987fb30f50a97b86896207de205d571bc78027e86"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "e38442525f1bc14b77ff5360984a3ba387dc699479dcb2b38803e6901fbfe12a"
 metafile = true
 
 [[files]]

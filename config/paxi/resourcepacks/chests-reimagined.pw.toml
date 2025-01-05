@@ -1,0 +1,13 @@
+name = "Chests Reimagined"
+filename = "§aChests§8-§aReimagined§0_§8[v1.6.1]§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/irAi0fTI/versions/uDCgb5Cz/%C2%A7aChests%C2%A78-%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.6.1%5D%C2%A70.zip"
+hash-format = "sha1"
+hash = "a50ac939e2a4a7a08fffc0b739fa93b58028b634"
+
+[update]
+[update.modrinth]
+mod-id = "irAi0fTI"
+version = "uDCgb5Cz"
