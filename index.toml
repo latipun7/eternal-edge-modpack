@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "8cdc5baa8c666ab1143959716e97518197e397c553c3f81661c08aae0ac5911c"
+hash = "efd7577e3758b32bd9fb85d879b2fbcb5c372b86c25c04117f68184a427021c3"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
@@ -870,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "bc82781b3f48234ae131e2160f2b72d4cc0801603a0c3e2eb9a88fd1b474de02"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "e9662ef699ca9b8d68e777fd38fa1217e2bdac0aa2da2eba104de296890622ce"
 metafile = true
 
 [[files]]
