@@ -1,0 +1,13 @@
+name = "Almanac"
+filename = "almanac-1.21.x-fabric-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gi02250Z/versions/jmiXAuhO/almanac-1.21.x-fabric-1.0.2.jar"
+hash-format = "sha1"
+hash = "75403cb12c8f76f206cd7fa08aea65190ca3e675"
+
+[update]
+[update.modrinth]
+mod-id = "Gi02250Z"
+version = "jmiXAuhO"

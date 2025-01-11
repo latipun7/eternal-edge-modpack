@@ -1,0 +1,13 @@
+{
+  "idle": {
+    "condition": "none"
+  },
+  "states": {
+    "unfocused": {
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "run_garbage_collector": true
+    }
+  }
+}

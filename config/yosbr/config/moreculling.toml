@@ -1,0 +1,37 @@
+version = 1
+enableSodiumMenu = true
+cloudCulling = true
+signTextCulling = true
+rainCulling = true
+dontCull = []
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+itemFrameMapCulling = true
+useItemFrameLOD = true
+itemFrameLODRange = 128
+useItemFrame3FaceCulling = true
+itemFrame3FaceCullingRange = 4.0
+leavesCullingMode = "CHECK"
+leavesCullingAmount = 2
+includeMangroveRoots = true
+endGatewayCulling = true
+beaconBeamCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+customportalapi = true
+comforts = true
+chalk = true
+farmersdelight = true
+yigd = true
+supplementaries = true
+betterarcheology = true
+travelersbackpack = true
+chococraft = true
+deeperdarker = true
+waystones = true
+bosses_of_mass_destruction = true
+amendments = true
+easymagic = true
+minecraft = true
+animal_feeding_trough = true
