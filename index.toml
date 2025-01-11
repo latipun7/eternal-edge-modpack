@@ -248,6 +248,10 @@ hash = "b0bee0fbb023d8542a556bafbfadc1dad8f3a7026cf89e8913f8b30bb6b68389"
 metafile = true
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "c2d4a6933f9a8ae9d078950f08b466922f8e7e76e7d2529c26f51eb86537b69d"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "583ff4cdcd4d6979d6e95bf64ed7435c98a628b85e0f304b23d5f366a3d86f0f"
 
@@ -266,6 +270,10 @@ hash = "e51333eb25dd2c7acaf3ce3c1355e38a9db7d54efb094e4310a38275eef6f383"
 [[files]]
 file = "config/yosbr/config/auto-clicker-fabric.json"
 hash = "cf8d64c91701d8c2fb6348525f3c13268019ada3a722958e15f9bf394927c15f"
+
+[[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "185e0ffd3ebfa844fd56c7d71d3b993a5cb1b73d58514a40b70d16089b40df64"
 
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
@@ -293,7 +301,7 @@ hash = "48dae00b5823c081ba9ff1e21db9211bc1a6ed133c1dc3314e96aff75220d3c6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "6c0272229193c196e131a49b4ed75059af0d1dd53d014d6d46a19fff01a953d3"
+hash = "221269571048de37f58cb6edfb8a3561d4ca9f961d002e8b2839dc09a96faff5"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
@@ -313,7 +321,7 @@ hash = "a4ec929f6a6fcefdac6504e8a4973e47e8d5ffb72c340a53fd8c627042fad6c4"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "a95d104e411c74c245c2cf48156b8874dfbd41bf77280920ecb722b8eb604376"
+hash = "511682694e6630fff580f4db64f0ffd06b587b2e25053639023d324fc57aceb7"
 
 [[files]]
 file = "config/yosbr/config/musicnotification.json"
@@ -341,7 +349,11 @@ hash = "3a24f8351fcbbd278568395feb4aba265e8ff3b69f674fc9ca6767dd8233c0be"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "10a31042812045555a31e39e0b7b815d808da8216d296acab12279bb950156e9"
+hash = "16849dad8f6393de4cb766685e94ba90006ce0cc1061e7a2973a3e5e7d88e288"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "e5de4aea816ab7dac4f2583ecda8760c71191d8c61e7d580ed53f38f1adbdef6"
 
 [[files]]
 file = "config/yosbr/config/weaponmaster_ydm_config.properties"
@@ -361,7 +373,7 @@ hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "09a6ac0e049ef7fd4f125aefe37a81fbe2a2a828f20523ffa886638cba07f013"
+hash = "66ad4ec324f1bda7e35620c606df9dd7602700ece8cf3165b954e23f03c3e6e7"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
@@ -503,11 +515,6 @@ hash = "106a9341c1d6cdcacdeff5109ad28aecf2b75f1413d098e15be1398982a5faa6"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
-metafile = true
-
-[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "9eb688a39cb4b0175baa4d7bf2a259f57e034955e251ce5d9a061fa441dfcb2c"
 metafile = true
@@ -550,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/chococraft.pw.toml"
 hash = "b9d021874706bdb551384c0821029a715bf61ee5eed7c57fd3b8c606f56fd5db"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
 
 [[files]]
@@ -600,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "0f06ba5b409ad41ccb7c2356b1407fe751bf3794386d8ddca924475f74c50822"
+metafile = true
+
+[[files]]
+file = "mods/countereds-terrain-slabs.pw.toml"
+hash = "df6a0afa614df386229588ecc954e6c6efb2c7ee545e24f7ef82e028ba99acaf"
 metafile = true
 
 [[files]]
@@ -868,6 +885,11 @@ hash = "c25d8467a4e18d04d1a781cdec834d4105e669589bc921e488109999e3fd7c65"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "c1945e477f4a6e6bfac1fd65718052014c4743fb36a36c84a9abbe2438a34449"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
@@ -1073,6 +1095,11 @@ hash = "f42c022d08469d7385521eeb247abfe0c6c28377910abf302e97193ea5008f51"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "ba27bd9b6dac77d7c57a998bd1764172cc9ce6c4356720632733a795d899f4db"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ac7676b301d1dca5aabbc1d19d3b4095dd2b808c8f3462412fc87ccbb84782e1"
 metafile = true
@@ -1183,6 +1210,11 @@ hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "e3fb99dcf245b19c4add224893b8cd342c7b3db00c0f708fef9ca368b1a2d94b"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b577e80255ce7411660efe7106517379a3fda20a706e27a498a5f824e0b818c6"
 metafile = true
@@ -1278,6 +1310,16 @@ hash = "2e7442afde91b3d55ffb6aecc51c0c3151c7c05feae87c77d08121e9e5ec6c3d"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1143f51e1bab2075190330ed6c86d5036c6706cb1a76df3a80108bc9edef63ef"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "c08e1eff99102922cd45510e121a0113309afd745758b1530212affba9e47fed"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
@@ -1355,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "e38442525f1bc14b77ff5360984a3ba387dc699479dcb2b38803e6901fbfe12a"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "b1f1d630a64c3472a5bec1bd69ce764d93838a38350d3fa1b8b87be17a92b6fe"
 metafile = true
 
 [[files]]

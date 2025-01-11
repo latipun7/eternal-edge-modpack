@@ -1,0 +1,15 @@
+_version = 2
+
+[client.advanced.multiThreading]
+numberOfFileHandlerThreads = 4
+numberOfLodBuilderThreads = 7
+numberOfUpdatePropagatorThreads = 8
+numberOfWorldGenerationThreads = 4
+runTimeRatioForFileHandlerThreads = "1.0"
+runTimeRatioForLodBuilderThreads = "0.75"
+runTimeRatioForUpdatePropagatorThreads = "0.75"
+runTimeRatioForWorldGenerationThreads = "1.0"
+
+[client.advanced.graphics.quality]
+lodChunkRenderDistanceRadius = 512
+maxHorizontalResolution = "TWO_BLOCKS"
