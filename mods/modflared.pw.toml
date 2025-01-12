@@ -1,0 +1,13 @@
+name = "Modflared"
+filename = "modflared-1.2.2+release.65.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRHq6kbO/versions/kjLbyq1W/modflared-1.2.2%2Brelease.65.jar"
+hash-format = "sha1"
+hash = "458eed35d03fe38e54a6c9072a49894ce1bac355"
+
+[update]
+[update.modrinth]
+mod-id = "uRHq6kbO"
+version = "kjLbyq1W"

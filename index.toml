@@ -300,6 +300,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "48dae00b5823c081ba9ff1e21db9211bc1a6ed133c1dc3314e96aff75220d3c6"
 
 [[files]]
+file = "config/yosbr/config/inventoryprofilesnext/mc.latipun.dev/profiles-V2.txt"
+hash = "d01691e6046e7229cc6e235061f1302af459a77ac338f3a9bc71ce11d8131440"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "221269571048de37f58cb6edfb8a3561d4ca9f961d002e8b2839dc09a96faff5"
 
@@ -1032,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "87a1755422226eee3e68fa8842e1a52362451656994fb81d4ac5dca3a1ea9c7f"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "0a2b243af188a320de940720657933fd7dfb7545ff225d472639ce6d499b754c"
 metafile = true
 
 [[files]]

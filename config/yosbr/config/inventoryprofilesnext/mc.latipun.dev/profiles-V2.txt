@@ -1,0 +1,138 @@
+profile beginner_exploration activate HOT1
+  HOT1
+    "minecraft:netherite_sword" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ]
+    "minecraft:diamond_sword"
+    "minecraft:iron_sword"
+    "minecraft:stone_sword"
+    "minecraft:netherite_axe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_axe"
+    "minecraft:iron_axe"
+    "minecraft:stone_axe"
+  HOT2
+    "minecraft:netherite_pickaxe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_pickaxe" -> [ "minecraft:enchantments"("[\"minecraft:unbreaking\",\"minecraft:silk_touch\"]") ] 
+    "minecraft:iron_pickaxe"
+    "minecraft:stone_pickaxe"
+    "minecraft:wooden_pickaxe"
+  HOT3
+    "minecraft:netherite_axe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_axe"
+    "minecraft:iron_axe"
+    "minecraft:stone_axe"
+    "minecraft:netherite_shovel" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_shovel"
+    "minecraft:iron_shovel"
+    "minecraft:stone_shovel"
+  HOT4
+    "minecraft:bow"
+    "minecraft:trident"
+    "minecraft:netherite_shovel" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_shovel"
+    "minecraft:iron_shovel"
+    "minecraft:stone_shovel"
+  HOT5
+    "minecraft:ender_chest"
+    "comforts:sleeping_bag_light_blue"
+    "comforts:sleeping_bag_red"
+    "comforts:sleeping_bag_magenta"
+    "comforts:sleeping_bag_white"
+    "minecraft:light_blue_bed"
+    "minecraft:red_bed"
+    "minecraft:magenta_bed"
+    "minecraft:white_bed"
+  HOT6
+    "minecraft:cherry_chest_boat"
+    "minecraft:bamboo_chest_raft"
+    "minecraft:spruce_chest_boat"
+    "minecraft:acacia_chest_boat"
+    "minecraft:mangrove_chest_boat"
+    "minecraft:birch_chest_boat"
+    "minecraft:jungle_chest_boat"
+    "minecraft:oak_chest_boat"
+    "minecraft:dark_oak_chest_boat"
+    "minecraft:cherry_boat"
+    "minecraft:bamboo_raft"
+    "minecraft:spruce_boat"
+    "minecraft:acacia_boat"
+    "minecraft:mangrove_boat"
+    "minecraft:birch_boat"
+    "minecraft:jungle_boat"
+    "minecraft:oak_boat"
+    "minecraft:dark_oak_boat"
+    "comforts:sleeping_bag_light_blue"
+    "comforts:sleeping_bag_red"
+    "comforts:sleeping_bag_magenta"
+    "comforts:sleeping_bag_white"
+    "minecraft:light_blue_bed"
+    "minecraft:red_bed"
+    "minecraft:magenta_bed"
+    "minecraft:white_bed"
+    "minecraft:torch"
+    "minecraft:netherite_hoe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_hoe"
+    "minecraft:iron_hoe"
+    "minecraft:stone_hoe"    
+  HOT7
+    "minecraft:scaffolding"
+    "minecraft:dirt"
+    "minecraft:end_stone"
+    "minecraft:blackstone"
+    "minecraft:netherrack"
+    "minecraft:cobbled_deepslate"
+    "minecraft:cobblestone"
+    "minecraft:deepslate"
+    "minecraft:stone"
+    "minecraft:crimson_planks"
+    "minecraft:warped_planks"
+    "minecraft:cherry_planks"
+    "minecraft:bamboo_planks"
+    "minecraft:mangrove_planks"
+    "minecraft:acacia_planks"
+    "minecraft:birch_planks"
+    "minecraft:oak_planks"
+    "minecraft:dark_oak_planks"
+    "minecraft:jungle_planks"
+    "minecraft:spruce_planks"
+  HOT8
+    "minecraft:rabbit_stew"
+    "minecraft:cooked_beef"
+    "minecraft:golden_carrot"
+    "minecraft:cooked_salmon"
+    "minecraft:cooked_mutton"
+    "minecraft:enchanted_golden_apple"
+    "minecraft:golden_apple"
+    "minecraft:beetroot_soup"
+    "minecraft:cooked_chicken"
+    "minecraft:mushroom_stew"
+    "minecraft:pumpkin_pie"
+    "minecraft:cooked_cod"
+    "minecraft:cooked_rabbit"
+    "minecraft:baked_potato"
+    "minecraft:bread"
+    "minecraft:honey_bottle"
+    "minecraft:carrot"
+    "minecraft:apple"
+    "minecraft:suspicious_stew"
+  HOT9
+    "minecraft:firework_rocket"
+    "minecraft:water_bucket"
+    "minecraft:bucket"
+  OFFHAND
+    "minecraft:shield"
+    "minecraft:torch"
+  HEAD
+    "minecraft:netherite_helmet" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_helmet"
+    "minecraft:iron_helmet"
+  CHEST
+    "minecraft:netherite_chestplate" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_chestplate"
+    "minecraft:iron_chestplate"
+  LEGS
+    "minecraft:netherite_leggings" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_leggings"
+    "minecraft:iron_leggings"
+  FEET
+    "minecraft:netherite_boots" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]") ] 
+    "minecraft:diamond_boots"
+    "minecraft:iron_boots"
