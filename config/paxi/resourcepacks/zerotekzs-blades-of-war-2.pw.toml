@@ -1,13 +1,13 @@
 name = "Zerotekz's Blades of War 2"
-filename = "Blades_of_War_2_v1.4.zip"
+filename = "Blades-of-War-2_v1.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZBlqsg00/versions/qwCpnqIf/Blades_of_War_2_v1.4.zip"
+url = "https://cdn.modrinth.com/data/ZBlqsg00/versions/nVO1PULa/Blades-of-War-2_v1.5.zip"
 hash-format = "sha1"
-hash = "d4e7fc396c2069a134d3dab70d901a8e65fd4ce7"
+hash = "ad665a31e6adc0ec5826afacbac4c0be71f8e523"
 
 [update]
 [update.modrinth]
 mod-id = "ZBlqsg00"
-version = "qwCpnqIf"
+version = "nVO1PULa"

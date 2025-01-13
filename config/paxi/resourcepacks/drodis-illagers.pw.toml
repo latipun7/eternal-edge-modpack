@@ -1,13 +1,13 @@
 name = "Drodi's Illagers"
-filename = "§5Drodi's Illagers [V4.8].zip"
+filename = "§3Drodi's Illagers [V4.9].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9zXRbF4/versions/sGlxd8dr/%C2%A75Drodi%27s%20Illagers%20%5BV4.8%5D.zip"
+url = "https://cdn.modrinth.com/data/J9zXRbF4/versions/JbnHZZ1R/%C2%A73Drodi%27s%20Illagers%20%5BV4.9%5D.zip"
 hash-format = "sha1"
-hash = "a6a73c27f3e9bcd8bed058a2f6e42d71667bb8a5"
+hash = "7eb96ade0c979bae130b4406eb7e8f65794fef15"
 
 [update]
 [update.modrinth]
 mod-id = "J9zXRbF4"
-version = "sGlxd8dr"
+version = "JbnHZZ1R"

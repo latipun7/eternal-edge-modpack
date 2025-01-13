@@ -1,0 +1,8 @@
+{
+  "generic": {
+    "botToken": "<actual-bot-token>",
+    "channelId": "<actual-channel-id>",
+    "avatarApi": "https://ely.by/services/skins-renderer?url=http://skinsystem.ely.by/skins/{player_name}.png&scale=19&renderFace=1",
+    "adminsIds": ["145459537288101888"]
+  }
+}

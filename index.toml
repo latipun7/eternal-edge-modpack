@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "3678c133ef8f21b628023cf190fcc6078055d4d11f0d16036eef7b68af4cb153"
+hash = "9cc1410b23713f4e463375fcccaa27a8133c7509c149b994825ef105958a0bc4"
 
 [[files]]
 file = "config/paxi/resourcepacks/animated-items.pw.toml"
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/blades-of-majestica.pw.toml"
-hash = "f8c52803930ebce43b625500dc0edf3bd055bcc5efb6b9a8a4f4297b5b3caa11"
+hash = "be342136ad5ebddaf26eedb70132a3f0d0f444a414e76e816c9d0ccfc0733b9a"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/default-dark-mode-expansion.pw.toml"
-hash = "adb2d85da7964073fe9e8fe16067ab32fe30baaa4d644570d383c7fcba09b385"
+hash = "27087399eff3ec0723d44ed859cd9af69794382d4e909d8e3a61619beaa0d681"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/drodis-illagers.pw.toml"
-hash = "5149b405ecebe4994bb6b0dc8c9c5f1db49de531d65a000818cefc9ceb8913e2"
+hash = "b977757a722584f94448cdd2718c9a79f13693ad98c592678f95f616cfa5b89a"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
-hash = "8610fecce726a9ffcb10755d9c136a3e07211157484c5df92c066d5ab574dd31"
+hash = "0106afd337cc315edf9dbb56e8207f1598ebf627355614ade043a616ba215b1c"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/zerotekzs-blades-of-war-2.pw.toml"
-hash = "b0bee0fbb023d8542a556bafbfadc1dad8f3a7026cf89e8913f8b30bb6b68389"
+hash = "488732750df0384424f58456a8d8f7f434ae6bf500c3f1a65692daacb5d4fb54"
 metafile = true
 
 [[files]]
@@ -278,6 +278,10 @@ hash = "185e0ffd3ebfa844fd56c7d71d3b993a5cb1b73d58514a40b70d16089b40df64"
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
 hash = "1e3a5a57f60bb58731a82341c3e4914e11f73d78896970db5f9972c27e33de19"
+
+[[files]]
+file = "config/yosbr/config/discord-mc-chat.json"
+hash = "fc37a2acd57b32d31930c27bcc9cafa5b827a94ac6d8f4ee5117dbf45415f987"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -353,7 +357,7 @@ hash = "3a24f8351fcbbd278568395feb4aba265e8ff3b69f674fc9ca6767dd8233c0be"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "16849dad8f6393de4cb766685e94ba90006ce0cc1061e7a2973a3e5e7d88e288"
+hash = "09190fdcd9155f2d388ed1f6cba48feda3bab8fc1747df8d447cc888da22c18d"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -370,10 +374,6 @@ hash = "82023a5f1085741ae073d636f1f837f64f4480fd19713e99fe0bbc123089ec57"
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
 hash = "9ada1620c5639ee90457677995dc6af297bf065c3d8116c9fa35eae302b62260"
-
-[[files]]
-file = "config/yosbr/config/yigd.json"
-hash = "77865b594f9800bcd203f07c751592edcd56501ad5eca704983257f4de600f33"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
+hash = "16b8b655b524d5fcfd5b8547cbe863ece0b58e5ce834702407a17ee43c933763"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "671def44e3c05f8a17b9489f06dfaa078818e937cd7b72e9387d045b9c553d0a"
+hash = "ffb849d41cdbbcf14c63357d6c0a53e6504c075bc8e39791ca3171dfc10da33b"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/effect-descriptions.pw.toml"
-hash = "d292f4630ad93478588a3ff2948153ed1c8c0f489702d586f40a8650985faa80"
+hash = "ceb4af11d06ea1eee7aececacc43b7b00289c42a21d398cc16751bc7591464e9"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "ebc0864e8af9840c152083dc1abb163a7ea160c4b6ab733521166b658c3a2117"
+hash = "e501cc5e9b2d956dcf235d7f5b0b3602969ba1d511a02134b952d67112f1f607"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "26f7c99f3a60f3b8198471b69ff2f63dc89c56926535fe9e9f1c98dc77f318b3"
+hash = "0909070c00893a31505b3046d7b84e7193e81d7eb36e554cca38dc6492d109fb"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1281f9c20e0c7eb4fdde889ff27193008e6e8741d67664c17dedb838dddbf13a"
+hash = "951cfcd899c605f4e56ee3a4ab65b6f139b04dd8deaf25df02f53a92d413a4ae"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "19d312867553c139261b7402a6d7721fb3b439e4327e88629fe80c57720eca07"
+hash = "94ff6fb7b75a4f6c2edf56f79c926ed223045b2df34b4d099c8f92086040f74e"
 metafile = true
 
 [[files]]
@@ -1185,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "517f2ae58642e324454674d40fb60c4a2b62125786dc55978702b6c9bc397efc"
+hash = "be95d7cea8f1cdc88f47038ad9bf9820a4838606551ea160f8926c8a4e6539b0"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "da8fe73e4e33af730138d69e338d43db1ae135e1f941afa4663d2ecf06d5fcad"
+hash = "ca91ffe2bf578b3e120b65c571daa40aebbdc792239147a72a11ac62a538c3be"
 metafile = true
 
 [[files]]
@@ -1360,7 +1360,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "284e857d12c0577df83ab9e213a819eaa51ad36fbee0e4b8737937381336dd25"
+hash = "9c5ba9e4976c4e60798b58a406a19f5b4c735dc6b94d53d18d4734573b688c59"
 metafile = true
 
 [[files]]
@@ -1430,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "a5a1e13966760793e5595e1df66136e7f8f682702b2c5f695becc625b7ed2a06"
+hash = "de5d6209e7d3739785065d3b3a779ede5285ddcc84138adc75a21b4cd660a490"
 metafile = true
 
 [[files]]
